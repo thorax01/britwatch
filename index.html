@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BritWatch</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<meta name="theme-color" content="#1d2b53">
+<style>
+  :root {
+    --bg: #f4f5f8;
+    --card: #ffffff;
+    --text: #1c1f2a;
+    --muted: #666b7a;
+    --line: #dde0e8;
+    --accent: #1d2b53;
+    --accent-text: #ffffff;
+    --chip: #e8eaf1;
+    --red: #c62f3c;
+    --ok: #2e7d4f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12141b;
+      --card: #1c1f29;
+      --text: #e9eaf0;
+      --muted: #9a9fb0;
+      --line: #303442;
+      --accent: #8fa6e8;
+      --accent-text: #12141b;
+      --chip: #2a2e3b;
+      --red: #ef6b75;
+      --ok: #6cc795;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  header {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 12px 16px; }
+  h1 { font-size: 1.35rem; margin: 0 0 10px; display: flex; align-items: baseline; gap: 8px; }
+  h1 small { font-size: 0.8rem; font-weight: normal; color: var(--muted); }
+  input[type=search], select {
+    width: 100%;
+    font: inherit;
+    color: var(--text);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 10px 12px;
+  }
+  main.wrap { padding-top: 0; }
+  .controls { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; align-items: center; }
+  .controls select { flex: 1 1 140px; width: auto; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  button {
+    font: inherit;
+    border: 1px solid var(--line);
+    background: var(--chip);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  button.on { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  .count { font-size: 0.85rem; color: var(--muted); margin: 12px 0 6px; }
+  .item {
+    display: flex; gap: 12px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  .item.kollad { opacity: 0.55; }
+  .poster {
+    flex: 0 0 72px; width: 72px; height: 106px;
+    border-radius: 8px; object-fit: cover;
+    background: var(--chip);
+  }
+  .info { flex: 1; min-width: 0; }
+  .title { font-weight: 600; overflow-wrap: anywhere; }
+  .orig { font-size: 0.85rem; color: var(--muted); }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; font-size: 0.78rem; }
+  .tag { background: var(--chip); border-radius: 999px; padding: 2px 8px; }
+  .tag.ny { background: var(--red); color: #fff; }
+  .tag.ok { background: var(--ok); color: #fff; }
+  .more { display: none; margin-top: 8px; font-size: 0.9rem; }
+  .item.open .more { display: block; }
+  .more p { margin: 0 0 10px; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .actions a { color: var(--accent); align-self: center; font-size: 0.9rem; }
+  .empty, .status { color: var(--muted); font-style: italic; text-align: center; padding: 24px 0; }
+  .toast {
+    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%);
+    background: var(--accent); color: var(--accent-text);
+    padding: 10px 16px; border-radius: 999px; font-size: 0.9rem;
+    opacity: 0; transition: opacity .2s; pointer-events: none;
+  }
+  .toast.show { opacity: 1; }
+  footer { font-size: 0.8rem; color: var(--muted); text-align: center; padding: 8px 0 32px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>BritWatch <small id="updated"></small></h1>
+    <input type="search" id="q" placeholder="Sök titel…" autocomplete="off">
+  </div>
+</header>
+
+<main class="wrap">
+    <div class="controls">
+      <div class="chips" id="typ">
+        <button data-v="alla" class="on">Alla</button>
+        <button data-v="serie">Serier</button>
+        <button data-v="film">Filmer</button>
+      </div>
+      <select id="sort" aria-label="Sortering">
+        <option value="pop">Populärast</option>
+        <option value="ny">Senast tillagda</option>
+        <option value="az">A–Ö</option>
+        <option value="imdb">Högst IMDb</option>
+        <option value="ar">Nyast årtal</option>
+      </select>
+    </div>
+    <div class="controls">
+      <select id="genre" aria-label="Genre"><option value="">Alla genrer</option></select>
+      <button id="dolj">Dölj kollade</button>
+    </div>
+  <div class="count" id="count"></div>
+  <div id="list"><div class="status">Laddar…</div></div>
+  <footer>Data från JustWatch. Tryck på en titel för mer info.</footer>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+  var GENRER = {
+    act: "Action", ani: "Animerat", cmy: "Komedi", crm: "Kriminal", doc: "Dokumentär",
+    drm: "Drama", eur: "Europeiskt", fml: "Familj", fnt: "Fantasy", hrr: "Skräck",
+    hst: "Historia", msc: "Musik", rly: "Reality", rma: "Romantik", scf: "Sci-fi",
+    spt: "Sport", trl: "Thriller", war: "Krig", wsn: "Western"
+  };
+  var NY_DAGAR = 30;
+
+  // Titlar du markerat som kollade sparas i telefonen.
+  function load(key, fallback) {
+    try {
+      var raw = localStorage.getItem(key);
+      return raw ? JSON.parse(raw) : fallback;
+    } catch (e) { return fallback; }
+  }
+  function save(key, value) {
+    try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) {}
+  }
+
+  var titlar = [];
+  var kollade = load("britwatch-kollade", {});
+  var state = load("britwatch-val", { typ: "alla", sort: "pop", genre: "", dolj: false });
+  var oppen = null;
+
+  var $ = function (id) { return document.getElementById(id); };
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function arNy(t) {
+    if (!t.tillagd) return false;
+    return (Date.now() - new Date(t.tillagd).getTime()) / 86400000 <= NY_DAGAR;
+  }
+
+  function toast(text) {
+    var el = $("toast");
+    el.textContent = text;
+    el.classList.add("show");
+    clearTimeout(toast.t);
+    toast.t = setTimeout(function () { el.classList.remove("show"); }, 1800);
+  }
+
+  function kopiera(text) {
+    function fallback() {
+      var ta = document.createElement("textarea");
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      try { document.execCommand("copy"); } catch (e) {}
+      ta.remove();
+    }
+    if (navigator.clipboard) navigator.clipboard.writeText(text).catch(fallback);
+    else fallback();
+    toast("Kopierade ”" + text + "”");
+  }
+
+  function render() {
+    var q = $("q").value.trim().toLowerCase();
+    var lista = titlar.filter(function (t) {
+      if (state.typ !== "alla" && t.typ !== state.typ) return false;
+      if (state.genre && t.genrer.indexOf(state.genre) < 0) return false;
+      if (state.dolj && kollade[t.id]) return false;
+      if (q && (t.titel + " " + (t.originaltitel || "")).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+
+    var cmp = {
+      pop: function (a, b) { return a.pos - b.pos; },
+      ny: function (a, b) { return (b.tillagd || "").localeCompare(a.tillagd || ""); },
+      az: function (a, b) { return a.titel.localeCompare(b.titel, "sv"); },
+      imdb: function (a, b) { return (b.imdb || 0) - (a.imdb || 0); },
+      ar: function (a, b) { return (b.ar || 0) - (a.ar || 0); }
+    }[state.sort];
+    lista.sort(cmp);
+
+    $("count").textContent = lista.length + " av " + titlar.length + " titlar";
+
+    if (!lista.length) {
+      $("list").innerHTML = '<div class="empty">Inget matchar.</div>';
+      return;
+    }
+
+    $("list").innerHTML = lista.map(function (t) {
+      var orig = t.originaltitel && t.originaltitel !== t.titel
+        ? '<div class="orig">' + esc(t.originaltitel) + "</div>" : "";
+      var tags = [];
+      if (arNy(t)) tags.push('<span class="tag ny">Ny</span>');
+      if (kollade[t.id]) tags.push('<span class="tag ok">Kollad</span>');
+      tags.push('<span class="tag">' + (t.typ === "serie" ? "Serie" : "Film") + "</span>");
+      if (t.ar) tags.push('<span class="tag">' + t.ar + "</span>");
+      if (t.sasonger) tags.push('<span class="tag">' + t.sasonger + (t.sasonger === 1 ? " säsong" : " säsonger") + "</span>");
+      if (t.imdb) tags.push('<span class="tag">IMDb ' + t.imdb.toFixed(1) + "</span>");
+
+      var genrer = t.genrer.map(function (g) { return GENRER[g] || g; }).join(", ");
+      var sokNamn = t.originaltitel || t.titel;
+
+      return '<div class="item' + (kollade[t.id] ? " kollad" : "") + (oppen === t.id ? " open" : "") + '" data-id="' + esc(t.id) + '">' +
+        (t.bild ? '<img class="poster" loading="lazy" alt="" src="' + esc(t.bild) + '">' : '<div class="poster"></div>') +
+        '<div class="info">' +
+          '<div class="title">' + esc(t.titel) + "</div>" + orig +
+          '<div class="meta">' + tags.join("") + "</div>" +
+          '<div class="more">' +
+            (genrer ? "<p><b>Genre:</b> " + esc(genrer) + "</p>" : "") +
+            (t.tillagd ? "<p><b>På BritBox sedan:</b> " + esc(t.tillagd) + "</p>" : "") +
+            (t.beskrivning ? "<p>" + esc(t.beskrivning) + "</p>" : "") +
+            '<div class="actions">' +
+              '<button data-act="kopiera" data-text="' + esc(sokNamn) + '">Kopiera ”' + esc(sokNamn) + '”</button>' +
+              '<button data-act="kollad">' + (kollade[t.id] ? "Ta bort Kollad" : "Markera som kollad") + "</button>" +
+              (t.lank ? '<a href="' + esc(t.lank) + '" target="_blank" rel="noopener">JustWatch ↗</a>' : "") +
+            "</div>" +
+          "</div>" +
+        "</div>" +
+      "</div>";
+    }).join("");
+  }
+
+  function syncControls() {
+    Array.prototype.forEach.call($("typ").children, function (b) {
+      b.classList.toggle("on", b.dataset.v === state.typ);
+    });
+    $("sort").value = state.sort;
+    $("genre").value = state.genre;
+    $("dolj").classList.toggle("on", state.dolj);
+  }
+
+  function andra(key, value) {
+    state[key] = value;
+    save("britwatch-val", state);
+    syncControls();
+    render();
+  }
+
+  $("q").addEventListener("input", render);
+  $("typ").addEventListener("click", function (e) {
+    if (e.target.dataset.v) andra("typ", e.target.dataset.v);
+  });
+  $("sort").addEventListener("change", function (e) { andra("sort", e.target.value); });
+  $("genre").addEventListener("change", function (e) { andra("genre", e.target.value); });
+  $("dolj").addEventListener("click", function () { andra("dolj", !state.dolj); });
+
+  $("list").addEventListener("click", function (e) {
+    if (e.target.closest("a")) return;
+    var item = e.target.closest(".item");
+    if (!item) return;
+    var id = item.dataset.id;
+    var act = e.target.dataset.act;
+    if (act === "kopiera") {
+      kopiera(e.target.dataset.text);
+    } else if (act === "kollad") {
+      if (kollade[id]) delete kollade[id]; else kollade[id] = true;
+      save("britwatch-kollade", kollade);
+      render();
+    } else {
+      oppen = oppen === id ? null : id;
+      render();
+    }
+  });
+
+  fetch("data.json", { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) {
+      titlar = data.titlar.map(function (t, i) { t.pos = i; return t; });
+
+      var finns = {};
+      titlar.forEach(function (t) { t.genrer.forEach(function (g) { finns[g] = true; }); });
+      Object.keys(finns)
+        .map(function (g) { return { v: g, namn: GENRER[g] || g }; })
+        .sort(function (a, b) { return a.namn.localeCompare(b.namn, "sv"); })
+        .forEach(function (g) {
+          var o = document.createElement("option");
+          o.value = g.v; o.textContent = g.namn;
+          $("genre").appendChild(o);
+        });
+      if (state.genre && !finns[state.genre]) state.genre = "";
+
+      if (data.uppdaterad) {
+        $("updated").textContent = "uppdaterad " + new Date(data.uppdaterad.replace("Z", ":00Z"))
+          .toLocaleDateString("sv-SE", { day: "numeric", month: "short" });
+      }
+      syncControls();
+      render();
+    })
+    .catch(function () {
+      $("list").innerHTML = '<div class="status">Kunde inte läsa data.json.</div>';
+    });
+
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").catch(function () {});
+  }
+</script>
+</body>
+</html>

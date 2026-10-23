@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-22T14:28Z",
+ "uppdaterad": "2026-10-23T09:24Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -21,24 +21,6 @@
    "tillagd": "2026-01-06"
   },
   {
-   "id": "ts379172",
-   "typ": "serie",
-   "titel": "Blue Lights",
-   "originaltitel": "Blue Lights",
-   "ar": 2023,
-   "beskrivning": "I Blue Lights får vi följa tre nyutbildade rekryter och deras äldre kollegor på polisstationen Blackthorn Street i Belfast. Grace Ellis är en före detta socialsekreterare som valt att byta bana men är tveksam till om hon fattat rätt beslut. Tillsammans med Annie Conlon och Tommy Foster kämpar hon för att hantera den press som yrket innebär.",
-   "bild": "https://images.justwatch.com/poster/355081093/s166/blue-lights.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/blue-lights",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.2,
-   "sasonger": 4,
-   "tillagd": "2025-11-19"
-  },
-  {
    "id": "ts414531",
    "typ": "serie",
    "titel": "After the Flood",
@@ -55,6 +37,24 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
+  },
+  {
+   "id": "ts379172",
+   "typ": "serie",
+   "titel": "Blue Lights",
+   "originaltitel": "Blue Lights",
+   "ar": 2023,
+   "beskrivning": "I Blue Lights får vi följa tre nyutbildade rekryter och deras äldre kollegor på polisstationen Blackthorn Street i Belfast. Grace Ellis är en före detta socialsekreterare som valt att byta bana men är tveksam till om hon fattat rätt beslut. Tillsammans med Annie Conlon och Tommy Foster kämpar hon för att hantera den press som yrket innebär.",
+   "bild": "https://images.justwatch.com/poster/355081093/s166/blue-lights.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/blue-lights",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.2,
+   "sasonger": 4,
+   "tillagd": "2025-11-19"
   },
   {
    "id": "ts526671",
@@ -114,24 +114,6 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts67396",
-   "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
-   "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2026-09-15"
-  },
-  {
    "id": "ts27630",
    "typ": "serie",
    "titel": "Line of Duty",
@@ -151,6 +133,24 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts67396",
+   "typ": "serie",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "genrer": [
+    "cmy",
+    "fnt",
+    "scf"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2026-09-15"
+  },
+  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -165,6 +165,23 @@
    ],
    "imdb": 8,
    "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -183,23 +200,6 @@
    ],
    "imdb": 8.5,
    "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -292,6 +292,25 @@
    "tillagd": "2026-06-17"
   },
   {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
+  },
+  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -328,25 +347,6 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
-  },
-  {
    "id": "ts321801",
    "typ": "serie",
    "titel": "Sherwood",
@@ -363,6 +363,24 @@
    "imdb": 7.4,
    "sasonger": 2,
    "tillagd": "2025-04-15"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-20"
   },
   {
    "id": "ts36929",
@@ -435,6 +453,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts21686",
+   "typ": "serie",
+   "titel": "Ett herrans liv",
+   "originaltitel": "The Vicar of Dibley",
+   "ar": 1994,
+   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
+   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 5,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts4618",
    "typ": "serie",
    "titel": "Fader Brown",
@@ -452,22 +487,21 @@
    "tillagd": "2026-07-15"
   },
   {
-   "id": "ts305546",
+   "id": "ts286379",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
    "genrer": [
     "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-20"
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
   },
   {
    "id": "ts20528",
@@ -488,56 +522,22 @@
    "tillagd": "2026-03-02"
   },
   {
-   "id": "ts286379",
+   "id": "ts43416",
    "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "titel": "Death in Holy Orders",
+   "originaltitel": "Death in Holy Orders",
+   "ar": 2003,
+   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
+   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
    "genrer": [
     "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
-  },
-  {
-   "id": "ts21686",
-   "typ": "serie",
-   "titel": "Ett herrans liv",
-   "originaltitel": "The Vicar of Dibley",
-   "ar": 1994,
-   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
-   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 5,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "tm60828",
-   "typ": "film",
-   "titel": "The Best of Men",
-   "originaltitel": "The Best of Men",
-   "ar": 2012,
-   "beskrivning": "Dr. Ludwig Guttman kommer som judisk flykting till England och får på grund av sin expertis inom arbete med delvis förlamade människor arbeta med patienter som brutit ryggraden. På det nya sjukhuset möter han många motgångar och en motvillighet att arbeta enligt hans nya metoder. En verklighetsbaserad TV-film om hur Dr. Guttemanns arbete senare gjorde så att han blev dubbad till riddare.",
-   "bild": "https://images.justwatch.com/poster/174959544/s166/the-best-of-men.webp",
-   "lank": "https://www.justwatch.com/se/film/the-best-of-men",
-   "genrer": [
     "drm",
-    "hst",
-    "war"
+    "trl"
    ],
-   "imdb": 7.9,
-   "sasonger": null,
-   "tillagd": "2000-07-14"
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-08-21"
   },
   {
    "id": "ts441490",
@@ -684,20 +684,22 @@
    "tillagd": "2024-05-15"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "id": "tm60828",
+   "typ": "film",
+   "titel": "The Best of Men",
+   "originaltitel": "The Best of Men",
+   "ar": 2012,
+   "beskrivning": "Dr. Ludwig Guttman kommer som judisk flykting till England och får på grund av sin expertis inom arbete med delvis förlamade människor arbeta med patienter som brutit ryggraden. På det nya sjukhuset möter han många motgångar och en motvillighet att arbeta enligt hans nya metoder. En verklighetsbaserad TV-film om hur Dr. Guttemanns arbete senare gjorde så att han blev dubbad till riddare.",
+   "bild": "https://images.justwatch.com/poster/174959544/s166/the-best-of-men.webp",
+   "lank": "https://www.justwatch.com/se/film/the-best-of-men",
    "genrer": [
-    "drm"
+    "drm",
+    "hst",
+    "war"
    ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
+   "imdb": 7.9,
+   "sasonger": null,
+   "tillagd": "2000-07-14"
   },
   {
    "id": "tm222940",
@@ -715,6 +717,22 @@
    "imdb": 6.3,
    "sasonger": null,
    "tillagd": "2026-02-13"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts306247",
@@ -785,24 +803,6 @@
    "imdb": 6.7,
    "sasonger": 5,
    "tillagd": "2026-01-27"
-  },
-  {
-   "id": "ts43416",
-   "typ": "serie",
-   "titel": "Death in Holy Orders",
-   "originaltitel": "Death in Holy Orders",
-   "ar": 2003,
-   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
-   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-08-21"
   },
   {
    "id": "tm172999",

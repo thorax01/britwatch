@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-23T09:24Z",
+ "uppdaterad": "2026-10-24T08:56Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,6 +39,25 @@
    "tillagd": "2026-08-25"
   },
   {
+   "id": "ts526671",
+   "typ": "serie",
+   "titel": "Agatha Christie's Tommy & Tuppence",
+   "originaltitel": "Tommy & Tuppence",
+   "ar": 2026,
+   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
+   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
+   "genrer": [
+    "cmy",
+    "crm",
+    "trl",
+    "rma"
+   ],
+   "imdb": 6.3,
+   "sasonger": 1,
+   "tillagd": "2026-09-29"
+  },
+  {
    "id": "ts379172",
    "typ": "serie",
    "titel": "Blue Lights",
@@ -55,44 +74,6 @@
    "imdb": 8.2,
    "sasonger": 4,
    "tillagd": "2025-11-19"
-  },
-  {
-   "id": "ts526671",
-   "typ": "serie",
-   "titel": "Agatha Christie's Tommy & Tuppence",
-   "originaltitel": "Tommy & Tuppence",
-   "ar": 2026,
-   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
-   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
-   "genrer": [
-    "cmy",
-    "crm",
-    "trl",
-    "rma"
-   ],
-   "imdb": 6.4,
-   "sasonger": 1,
-   "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts258950",
-   "typ": "serie",
-   "titel": "Dödligt kapitel",
-   "originaltitel": "Magpie Murders",
-   "ar": 2022,
-   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
-   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
-   "genrer": [
-    "crm",
-    "drm",
-    "fml",
-    "trl"
-   ],
-   "imdb": 7.5,
-   "sasonger": 3,
-   "tillagd": "2026-09-29"
   },
   {
    "id": "ts21447",
@@ -114,23 +95,23 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts27630",
+   "id": "ts258950",
    "typ": "serie",
-   "titel": "Line of Duty",
-   "originaltitel": "Line of Duty",
-   "ar": 2012,
-   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
-   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
+   "titel": "Dödligt kapitel",
+   "originaltitel": "Magpie Murders",
+   "ar": 2022,
+   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
+   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
    "genrer": [
     "crm",
     "drm",
-    "trl",
-    "eur"
+    "fml",
+    "trl"
    ],
-   "imdb": 8.7,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
+   "imdb": 7.5,
+   "sasonger": 3,
+   "tillagd": "2026-09-29"
   },
   {
    "id": "ts67396",
@@ -149,6 +130,25 @@
    "imdb": 8.4,
    "sasonger": 5,
    "tillagd": "2026-09-15"
+  },
+  {
+   "id": "ts27630",
+   "typ": "serie",
+   "titel": "Line of Duty",
+   "originaltitel": "Line of Duty",
+   "ar": 2012,
+   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
+   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.7,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts10018",
@@ -185,6 +185,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts8175",
+   "typ": "serie",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "genrer": [
+    "drm",
+    "hst"
+   ],
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
+  },
+  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -201,23 +218,6 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
   },
   {
    "id": "ts440132",
@@ -272,24 +272,6 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
   },
   {
    "id": "ts11564",
@@ -347,22 +329,22 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts321801",
+   "id": "ts32526",
    "typ": "serie",
-   "titel": "Sherwood",
-   "originaltitel": "Sherwood",
-   "ar": 2022,
-   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
-   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.4,
-   "sasonger": 2,
-   "tillagd": "2025-04-15"
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts305546",
@@ -381,6 +363,42 @@
    "imdb": 7.2,
    "sasonger": 3,
    "tillagd": "2026-10-20"
+  },
+  {
+   "id": "ts43416",
+   "typ": "serie",
+   "titel": "Death in Holy Orders",
+   "originaltitel": "Death in Holy Orders",
+   "ar": 2003,
+   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
+   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-08-21"
+  },
+  {
+   "id": "ts321801",
+   "typ": "serie",
+   "titel": "Sherwood",
+   "originaltitel": "Sherwood",
+   "ar": 2022,
+   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
+   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.4,
+   "sasonger": 2,
+   "tillagd": "2025-04-15"
   },
   {
    "id": "ts36929",
@@ -402,23 +420,6 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
-  },
-  {
    "id": "ts261229",
    "typ": "serie",
    "titel": "The Cleaner",
@@ -436,21 +437,21 @@
    "tillagd": "2025-02-19"
   },
   {
-   "id": "ts5804",
+   "id": "ts357650",
    "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
    "genrer": [
-    "cmy",
-    "eur"
+    "crm",
+    "drm"
    ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
   },
   {
    "id": "ts21686",
@@ -467,6 +468,23 @@
    ],
    "imdb": 8,
    "sasonger": 5,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts5804",
+   "typ": "serie",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 6,
    "tillagd": "2024-01-11"
   },
   {
@@ -522,24 +540,6 @@
    "tillagd": "2026-03-02"
   },
   {
-   "id": "ts43416",
-   "typ": "serie",
-   "titel": "Death in Holy Orders",
-   "originaltitel": "Death in Holy Orders",
-   "ar": 2003,
-   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
-   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-08-21"
-  },
-  {
    "id": "ts441490",
    "typ": "serie",
    "titel": "Lynley",
@@ -593,24 +593,6 @@
    "tillagd": "2026-02-23"
   },
   {
-   "id": "ts450529",
-   "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
-  },
-  {
    "id": "ts311095",
    "typ": "serie",
    "titel": "Sister Boniface Mysteries",
@@ -628,6 +610,24 @@
    "imdb": 7.2,
    "sasonger": 4,
    "tillagd": "2025-07-16"
+  },
+  {
+   "id": "ts450529",
+   "typ": "serie",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
   },
   {
    "id": "ts439006",

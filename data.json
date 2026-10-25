@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-24T08:56Z",
+ "uppdaterad": "2026-10-25T09:13Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -19,6 +19,24 @@
    "imdb": 8.1,
    "sasonger": 2,
    "tillagd": "2026-01-06"
+  },
+  {
+   "id": "ts379172",
+   "typ": "serie",
+   "titel": "Blue Lights",
+   "originaltitel": "Blue Lights",
+   "ar": 2023,
+   "beskrivning": "I Blue Lights får vi följa tre nyutbildade rekryter och deras äldre kollegor på polisstationen Blackthorn Street i Belfast. Grace Ellis är en före detta socialsekreterare som valt att byta bana men är tveksam till om hon fattat rätt beslut. Tillsammans med Annie Conlon och Tommy Foster kämpar hon för att hantera den press som yrket innebär.",
+   "bild": "https://images.justwatch.com/poster/355081093/s166/blue-lights.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/blue-lights",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.2,
+   "sasonger": 4,
+   "tillagd": "2025-11-19"
   },
   {
    "id": "ts414531",
@@ -58,22 +76,23 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts379172",
+   "id": "ts258950",
    "typ": "serie",
-   "titel": "Blue Lights",
-   "originaltitel": "Blue Lights",
-   "ar": 2023,
-   "beskrivning": "I Blue Lights får vi följa tre nyutbildade rekryter och deras äldre kollegor på polisstationen Blackthorn Street i Belfast. Grace Ellis är en före detta socialsekreterare som valt att byta bana men är tveksam till om hon fattat rätt beslut. Tillsammans med Annie Conlon och Tommy Foster kämpar hon för att hantera den press som yrket innebär.",
-   "bild": "https://images.justwatch.com/poster/355081093/s166/blue-lights.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/blue-lights",
+   "titel": "Dödligt kapitel",
+   "originaltitel": "Magpie Murders",
+   "ar": 2022,
+   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
+   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
    "genrer": [
     "crm",
     "drm",
+    "fml",
     "trl"
    ],
-   "imdb": 8.2,
-   "sasonger": 4,
-   "tillagd": "2025-11-19"
+   "imdb": 7.5,
+   "sasonger": 3,
+   "tillagd": "2026-09-29"
   },
   {
    "id": "ts21447",
@@ -95,23 +114,23 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts258950",
+   "id": "ts27630",
    "typ": "serie",
-   "titel": "Dödligt kapitel",
-   "originaltitel": "Magpie Murders",
-   "ar": 2022,
-   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
-   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
+   "titel": "Line of Duty",
+   "originaltitel": "Line of Duty",
+   "ar": 2012,
+   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
+   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
    "genrer": [
     "crm",
     "drm",
-    "fml",
-    "trl"
+    "trl",
+    "eur"
    ],
-   "imdb": 7.5,
-   "sasonger": 3,
-   "tillagd": "2026-09-29"
+   "imdb": 8.7,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts67396",
@@ -132,25 +151,6 @@
    "tillagd": "2026-09-15"
   },
   {
-   "id": "ts27630",
-   "typ": "serie",
-   "titel": "Line of Duty",
-   "originaltitel": "Line of Duty",
-   "ar": 2012,
-   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
-   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.7,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -165,6 +165,24 @@
    ],
    "imdb": 8,
    "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
    "tillagd": "2024-01-11"
   },
   {
@@ -202,41 +220,6 @@
    "tillagd": "2026-01-20"
   },
   {
-   "id": "ts21621",
-   "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
-   "genrer": [
-    "cmy",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
-  },
-  {
    "id": "ts22228",
    "typ": "serie",
    "titel": "Morden i Midsomer",
@@ -256,6 +239,23 @@
    "tillagd": "2024-08-14"
   },
   {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm"
+   ],
+   "imdb": 7,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
+  },
+  {
    "id": "ts20116",
    "typ": "serie",
    "titel": "Happy Valley",
@@ -272,6 +272,42 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts32526",
+   "typ": "serie",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
   },
   {
    "id": "ts11564",
@@ -293,24 +329,6 @@
    "tillagd": "2026-04-15"
   },
   {
-   "id": "ts39247",
-   "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-09-25"
-  },
-  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -329,24 +347,6 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
-  },
-  {
    "id": "ts305546",
    "typ": "serie",
    "titel": "Signora Volpe",
@@ -363,6 +363,145 @@
    "imdb": 7.2,
    "sasonger": 3,
    "tillagd": "2026-10-20"
+  },
+  {
+   "id": "ts36929",
+   "typ": "serie",
+   "titel": "Saknad, aldrig glömd",
+   "originaltitel": "Unforgotten",
+   "ar": 2015,
+   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
+   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 6,
+   "tillagd": "2026-05-06"
+  },
+  {
+   "id": "ts357650",
+   "typ": "serie",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
+  },
+  {
+   "id": "ts261229",
+   "typ": "serie",
+   "titel": "The Cleaner",
+   "originaltitel": "The Cleaner",
+   "ar": 2021,
+   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
+   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
+   "genrer": [
+    "cmy",
+    "crm"
+   ],
+   "imdb": 7.1,
+   "sasonger": 3,
+   "tillagd": "2025-02-19"
+  },
+  {
+   "id": "ts21686",
+   "typ": "serie",
+   "titel": "Ett herrans liv",
+   "originaltitel": "The Vicar of Dibley",
+   "ar": 1994,
+   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
+   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 5,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts5804",
+   "typ": "serie",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts20528",
+   "typ": "serie",
+   "titel": "Ett fall för Vera",
+   "originaltitel": "Vera",
+   "ar": 2011,
+   "beskrivning": "Den charmiga men mycket sarkastiska kriminalkommissarien Vera Stanhope löser mord tillsammans med sin unga assistent i Northumberland County.",
+   "bild": "https://images.justwatch.com/poster/354873653/s166/vera.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/vera",
+   "genrer": [
+    "crm",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 14,
+   "tillagd": "2026-03-02"
   },
   {
    "id": "ts43416",
@@ -399,145 +538,6 @@
    "imdb": 7.4,
    "sasonger": 2,
    "tillagd": "2025-04-15"
-  },
-  {
-   "id": "ts36929",
-   "typ": "serie",
-   "titel": "Saknad, aldrig glömd",
-   "originaltitel": "Unforgotten",
-   "ar": 2015,
-   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
-   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 6,
-   "tillagd": "2026-05-06"
-  },
-  {
-   "id": "ts261229",
-   "typ": "serie",
-   "titel": "The Cleaner",
-   "originaltitel": "The Cleaner",
-   "ar": 2021,
-   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
-   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
-   "genrer": [
-    "cmy",
-    "crm"
-   ],
-   "imdb": 7.1,
-   "sasonger": 3,
-   "tillagd": "2025-02-19"
-  },
-  {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
-  },
-  {
-   "id": "ts21686",
-   "typ": "serie",
-   "titel": "Ett herrans liv",
-   "originaltitel": "The Vicar of Dibley",
-   "ar": 1994,
-   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
-   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 5,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts5804",
-   "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts4618",
-   "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
-  },
-  {
-   "id": "ts20528",
-   "typ": "serie",
-   "titel": "Ett fall för Vera",
-   "originaltitel": "Vera",
-   "ar": 2011,
-   "beskrivning": "Den charmiga men mycket sarkastiska kriminalkommissarien Vera Stanhope löser mord tillsammans med sin unga assistent i Northumberland County.",
-   "bild": "https://images.justwatch.com/poster/354873653/s166/vera.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/vera",
-   "genrer": [
-    "crm",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 14,
-   "tillagd": "2026-03-02"
   },
   {
    "id": "ts441490",
@@ -585,7 +585,6 @@
    "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
    "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
    "genrer": [
-    "crm",
     "drm"
    ],
    "imdb": null,

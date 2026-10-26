@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-25T09:13Z",
+ "uppdaterad": "2026-10-26T10:15Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,24 +39,6 @@
    "tillagd": "2025-11-19"
   },
   {
-   "id": "ts414531",
-   "typ": "serie",
-   "titel": "After the Flood",
-   "originaltitel": "After the Flood",
-   "ar": 2024,
-   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
-   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.6,
-   "sasonger": 2,
-   "tillagd": "2026-08-25"
-  },
-  {
    "id": "ts526671",
    "typ": "serie",
    "titel": "Agatha Christie's Tommy & Tuppence",
@@ -76,23 +58,22 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts258950",
+   "id": "ts414531",
    "typ": "serie",
-   "titel": "Dödligt kapitel",
-   "originaltitel": "Magpie Murders",
-   "ar": 2022,
-   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
-   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
+   "titel": "After the Flood",
+   "originaltitel": "After the Flood",
+   "ar": 2024,
+   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
+   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
     "crm",
     "drm",
-    "fml",
     "trl"
    ],
-   "imdb": 7.5,
-   "sasonger": 3,
-   "tillagd": "2026-09-29"
+   "imdb": 6.6,
+   "sasonger": 2,
+   "tillagd": "2026-08-25"
   },
   {
    "id": "ts21447",
@@ -133,6 +114,25 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts258950",
+   "typ": "serie",
+   "titel": "Dödligt kapitel",
+   "originaltitel": "Magpie Murders",
+   "ar": 2022,
+   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
+   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
+   "genrer": [
+    "crm",
+    "drm",
+    "fml",
+    "trl"
+   ],
+   "imdb": 7.5,
+   "sasonger": 3,
+   "tillagd": "2026-09-29"
+  },
+  {
    "id": "ts67396",
    "typ": "serie",
    "titel": "Ghosts",
@@ -168,6 +168,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -183,23 +200,6 @@
    ],
    "imdb": 8.5,
    "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -251,27 +251,9 @@
     "cmy",
     "drm"
    ],
-   "imdb": 7,
+   "imdb": 7.1,
    "sasonger": 2,
    "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts20116",
-   "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts32526",
@@ -290,6 +272,24 @@
    "imdb": 8.3,
    "sasonger": 11,
    "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts20116",
+   "typ": "serie",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts39247",
@@ -347,24 +347,6 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-20"
-  },
-  {
    "id": "ts36929",
    "typ": "serie",
    "titel": "Saknad, aldrig glömd",
@@ -382,6 +364,24 @@
    "imdb": 8.4,
    "sasonger": 6,
    "tillagd": "2026-05-06"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-20"
   },
   {
    "id": "ts357650",
@@ -418,6 +418,24 @@
    "tillagd": "2025-02-19"
   },
   {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
    "id": "ts21686",
    "typ": "serie",
    "titel": "Ett herrans liv",
@@ -433,23 +451,6 @@
    "imdb": 8,
    "sasonger": 5,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts4618",
-   "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
   },
   {
    "id": "ts5804",
@@ -701,6 +702,22 @@
    "tillagd": "2000-07-14"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "tm222940",
    "typ": "film",
    "titel": "Lady Chatterleys älskare",
@@ -716,22 +733,6 @@
    "imdb": 6.3,
    "sasonger": null,
    "tillagd": "2026-02-13"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts306247",

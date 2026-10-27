@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-26T10:15Z",
+ "uppdaterad": "2026-10-27T09:53Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -114,6 +114,24 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts67396",
+   "typ": "serie",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "genrer": [
+    "cmy",
+    "fnt",
+    "scf"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2026-09-15"
+  },
+  {
    "id": "ts258950",
    "typ": "serie",
    "titel": "Dödligt kapitel",
@@ -131,24 +149,6 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts67396",
-   "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
-   "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2026-09-15"
   },
   {
    "id": "ts10018",
@@ -183,6 +183,25 @@
    "imdb": 8.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts22228",
+   "typ": "serie",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
   },
   {
    "id": "ts21621",
@@ -220,25 +239,6 @@
    "tillagd": "2026-01-20"
   },
   {
-   "id": "ts22228",
-   "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
-  },
-  {
    "id": "ts440132",
    "typ": "serie",
    "titel": "Death Valley",
@@ -254,6 +254,24 @@
    "imdb": 7.1,
    "sasonger": 2,
    "tillagd": "2026-07-31"
+  },
+  {
+   "id": "ts20116",
+   "typ": "serie",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts32526",
@@ -274,22 +292,22 @@
    "tillagd": "2026-06-17"
   },
   {
-   "id": "ts20116",
+   "id": "ts305546",
    "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 8.5,
+   "imdb": 7.2,
    "sasonger": 3,
-   "tillagd": "2024-01-11"
+   "tillagd": "2026-10-20"
   },
   {
    "id": "ts39247",
@@ -329,24 +347,6 @@
    "tillagd": "2026-04-15"
   },
   {
-   "id": "ts2287",
-   "typ": "serie",
-   "titel": "Poirot",
-   "originaltitel": "Poirot",
-   "ar": 1989,
-   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
-   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.6,
-   "sasonger": 13,
-   "tillagd": "2022-05-24"
-  },
-  {
    "id": "ts36929",
    "typ": "serie",
    "titel": "Saknad, aldrig glömd",
@@ -366,22 +366,22 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts305546",
+   "id": "ts2287",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Poirot",
+   "originaltitel": "Poirot",
+   "ar": 1989,
+   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
+   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-20"
+   "imdb": 8.6,
+   "sasonger": 13,
+   "tillagd": "2022-05-24"
   },
   {
    "id": "ts357650",
@@ -399,23 +399,6 @@
    "imdb": 7.4,
    "sasonger": 4,
    "tillagd": "2026-05-20"
-  },
-  {
-   "id": "ts261229",
-   "typ": "serie",
-   "titel": "The Cleaner",
-   "originaltitel": "The Cleaner",
-   "ar": 2021,
-   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
-   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
-   "genrer": [
-    "cmy",
-    "crm"
-   ],
-   "imdb": 7.1,
-   "sasonger": 3,
-   "tillagd": "2025-02-19"
   },
   {
    "id": "ts4618",
@@ -453,23 +436,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts5804",
-   "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts286379",
    "typ": "serie",
    "titel": "Grace",
@@ -485,6 +451,40 @@
    "imdb": 7.4,
    "sasonger": 6,
    "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts261229",
+   "typ": "serie",
+   "titel": "The Cleaner",
+   "originaltitel": "The Cleaner",
+   "ar": 2021,
+   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
+   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
+   "genrer": [
+    "cmy",
+    "crm"
+   ],
+   "imdb": 7.1,
+   "sasonger": 3,
+   "tillagd": "2025-02-19"
+  },
+  {
+   "id": "ts5804",
+   "typ": "serie",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts20528",
@@ -702,22 +702,6 @@
    "tillagd": "2000-07-14"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "tm222940",
    "typ": "film",
    "titel": "Lady Chatterleys älskare",
@@ -733,6 +717,22 @@
    "imdb": 6.3,
    "sasonger": null,
    "tillagd": "2026-02-13"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts306247",
@@ -841,23 +841,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts289810",
-   "typ": "serie",
-   "titel": "The Thief, His Wife and the Canoe",
-   "originaltitel": "The Thief, His Wife and the Canoe",
-   "ar": 2022,
-   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
-   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2022-08-23"
-  },
-  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -873,6 +856,23 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
+  },
+  {
+   "id": "ts289810",
+   "typ": "serie",
+   "titel": "The Thief, His Wife and the Canoe",
+   "originaltitel": "The Thief, His Wife and the Canoe",
+   "ar": 2022,
+   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
+   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.2,
+   "sasonger": 1,
+   "tillagd": "2022-08-23"
   },
   {
    "id": "ts388976",
@@ -956,8 +956,7 @@
    "lank": "https://www.justwatch.com/se/film/an-inspector-calls-2015",
    "genrer": [
     "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
    "imdb": 7.6,
    "sasonger": null,

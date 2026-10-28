@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-27T09:53Z",
+ "uppdaterad": "2026-10-28T10:39Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,25 +39,6 @@
    "tillagd": "2025-11-19"
   },
   {
-   "id": "ts526671",
-   "typ": "serie",
-   "titel": "Agatha Christie's Tommy & Tuppence",
-   "originaltitel": "Tommy & Tuppence",
-   "ar": 2026,
-   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
-   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
-   "genrer": [
-    "cmy",
-    "crm",
-    "trl",
-    "rma"
-   ],
-   "imdb": 6.3,
-   "sasonger": 1,
-   "tillagd": "2026-09-29"
-  },
-  {
    "id": "ts414531",
    "typ": "serie",
    "titel": "After the Flood",
@@ -76,23 +57,23 @@
    "tillagd": "2026-08-25"
   },
   {
-   "id": "ts21447",
+   "id": "ts526671",
    "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "titel": "Agatha Christie's Tommy & Tuppence",
+   "originaltitel": "Tommy & Tuppence",
+   "ar": 2026,
+   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
+   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
    "genrer": [
+    "cmy",
     "crm",
-    "drm",
     "trl",
-    "eur"
+    "rma"
    ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2024-01-17"
+   "imdb": 6.3,
+   "sasonger": 1,
+   "tillagd": "2026-09-29"
   },
   {
    "id": "ts27630",
@@ -130,6 +111,25 @@
    "imdb": 8.4,
    "sasonger": 5,
    "tillagd": "2026-09-15"
+  },
+  {
+   "id": "ts21447",
+   "typ": "serie",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts258950",
@@ -185,6 +185,24 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts22228",
    "typ": "serie",
    "titel": "Morden i Midsomer",
@@ -202,24 +220,6 @@
    "imdb": 7.9,
    "sasonger": 26,
    "tillagd": "2024-08-14"
-  },
-  {
-   "id": "ts21621",
-   "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
-   "genrer": [
-    "cmy",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts8175",
@@ -251,7 +251,7 @@
     "cmy",
     "drm"
    ],
-   "imdb": 7.1,
+   "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
   },
@@ -274,22 +274,23 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts32526",
+   "id": "ts11564",
    "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
+    "cmy",
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts305546",
@@ -307,7 +308,7 @@
    ],
    "imdb": 7.2,
    "sasonger": 3,
-   "tillagd": "2026-10-20"
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts39247",
@@ -328,23 +329,22 @@
    "tillagd": "2026-09-25"
   },
   {
-   "id": "ts11564",
+   "id": "ts32526",
    "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
    "genrer": [
-    "cmy",
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts36929",
@@ -384,21 +384,21 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts357650",
+   "id": "ts21686",
    "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "titel": "Ett herrans liv",
+   "originaltitel": "The Vicar of Dibley",
+   "ar": 1994,
+   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
+   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
    "genrer": [
-    "crm",
-    "drm"
+    "cmy",
+    "eur"
    ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
+   "imdb": 8,
+   "sasonger": 5,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts4618",
@@ -419,38 +419,21 @@
    "tillagd": "2026-07-15"
   },
   {
-   "id": "ts21686",
+   "id": "ts357650",
    "typ": "serie",
-   "titel": "Ett herrans liv",
-   "originaltitel": "The Vicar of Dibley",
-   "ar": 1994,
-   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
-   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 5,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
    "genrer": [
     "crm",
     "drm"
    ],
    "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
   },
   {
    "id": "ts261229",
@@ -485,6 +468,23 @@
    "imdb": 8.2,
    "sasonger": 6,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
   },
   {
    "id": "ts20528",
@@ -539,6 +539,22 @@
    "imdb": 7.4,
    "sasonger": 2,
    "tillagd": "2025-04-15"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts441490",
@@ -648,6 +664,23 @@
    "tillagd": "2026-10-13"
   },
   {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
+  },
+  {
    "id": "ts112049",
    "typ": "serie",
    "titel": "The Red King",
@@ -665,23 +698,6 @@
    "imdb": 6.7,
    "sasonger": 1,
    "tillagd": "2025-06-17"
-  },
-  {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
   },
   {
    "id": "tm60828",
@@ -717,22 +733,6 @@
    "imdb": 6.3,
    "sasonger": null,
    "tillagd": "2026-02-13"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts306247",

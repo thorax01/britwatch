@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-28T10:39Z",
+ "uppdaterad": "2026-10-29T10:57Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,24 +39,6 @@
    "tillagd": "2025-11-19"
   },
   {
-   "id": "ts414531",
-   "typ": "serie",
-   "titel": "After the Flood",
-   "originaltitel": "After the Flood",
-   "ar": 2024,
-   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
-   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.6,
-   "sasonger": 2,
-   "tillagd": "2026-08-25"
-  },
-  {
    "id": "ts526671",
    "typ": "serie",
    "titel": "Agatha Christie's Tommy & Tuppence",
@@ -76,23 +58,22 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts27630",
+   "id": "ts414531",
    "typ": "serie",
-   "titel": "Line of Duty",
-   "originaltitel": "Line of Duty",
-   "ar": 2012,
-   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
-   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
+   "titel": "After the Flood",
+   "originaltitel": "After the Flood",
+   "ar": 2024,
+   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
+   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
     "crm",
     "drm",
-    "trl",
-    "eur"
+    "trl"
    ],
-   "imdb": 8.7,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
+   "imdb": 6.6,
+   "sasonger": 2,
+   "tillagd": "2026-08-25"
   },
   {
    "id": "ts67396",
@@ -111,6 +92,25 @@
    "imdb": 8.4,
    "sasonger": 5,
    "tillagd": "2026-09-15"
+  },
+  {
+   "id": "ts27630",
+   "typ": "serie",
+   "titel": "Line of Duty",
+   "originaltitel": "Line of Duty",
+   "ar": 2012,
+   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
+   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.7,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts21447",
@@ -168,6 +168,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts8175",
+   "typ": "serie",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "genrer": [
+    "drm",
+    "hst"
+   ],
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
+  },
+  {
    "id": "ts22171",
    "typ": "serie",
    "titel": "Stolthet och fördom",
@@ -203,42 +220,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts22228",
-   "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
-  },
-  {
    "id": "ts440132",
    "typ": "serie",
    "titel": "Death Valley",
@@ -256,41 +237,23 @@
    "tillagd": "2026-07-31"
   },
   {
-   "id": "ts20116",
+   "id": "ts22228",
    "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
    "genrer": [
     "crm",
     "drm",
-    "trl"
+    "trl",
+    "eur"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
   },
   {
    "id": "ts305546",
@@ -311,22 +274,40 @@
    "tillagd": "2026-10-27"
   },
   {
-   "id": "ts39247",
+   "id": "ts20116",
    "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.1,
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts450529",
+   "typ": "serie",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
    "sasonger": 1,
-   "tillagd": "2026-09-25"
+   "tillagd": "2026-10-06"
   },
   {
    "id": "ts32526",
@@ -345,6 +326,43 @@
    "imdb": 8.3,
    "sasonger": 11,
    "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
+  },
+  {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts36929",
@@ -384,6 +402,24 @@
    "tillagd": "2022-05-24"
   },
   {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
    "id": "ts21686",
    "typ": "serie",
    "titel": "Ett herrans liv",
@@ -401,22 +437,38 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts4618",
+   "id": "ts286379",
    "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
    "genrer": [
     "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts5804",
+   "typ": "serie",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts357650",
@@ -451,40 +503,6 @@
    "imdb": 7.1,
    "sasonger": 3,
    "tillagd": "2025-02-19"
-  },
-  {
-   "id": "ts5804",
-   "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
   },
   {
    "id": "ts20528",
@@ -541,22 +559,6 @@
    "tillagd": "2025-04-15"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "ts441490",
    "typ": "serie",
    "titel": "Lynley",
@@ -593,22 +595,6 @@
    "tillagd": "2026-05-07"
   },
   {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
-  },
-  {
    "id": "ts311095",
    "typ": "serie",
    "titel": "Sister Boniface Mysteries",
@@ -628,22 +614,20 @@
    "tillagd": "2025-07-16"
   },
   {
-   "id": "ts450529",
+   "id": "ts492740",
    "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "In the Metropolitan Police's smallest department, the Heritage Crime Unit, an art-loving detective tackles cases connected to the world of art, antiques, collectibles and cultural heritage.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 6.8,
+   "imdb": null,
    "sasonger": 1,
-   "tillagd": "2026-10-06"
+   "tillagd": "2026-02-23"
   },
   {
    "id": "ts439006",
@@ -664,21 +648,22 @@
    "tillagd": "2026-10-13"
   },
   {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "id": "tm224629",
+   "typ": "film",
+   "titel": "An Inspector Calls",
+   "originaltitel": "An Inspector Calls",
+   "ar": 2015,
+   "beskrivning": "Året är 1912 och den rika familjen Birling har samlats till fest för att fira sin dotters förlovning när kriminalinspektör Goole knackar på dörren. Han utreder en lokal ung kvinnas självmord och vill tala med familjemedlemmarna om deras kontakter med henne.",
+   "bild": "https://images.justwatch.com/poster/256187400/s166/an-inspector-calls-2015.webp",
+   "lank": "https://www.justwatch.com/se/film/an-inspector-calls-2015",
    "genrer": [
-    "cmy",
-    "eur"
+    "crm",
+    "drm",
+    "trl"
    ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
+   "imdb": 7.6,
+   "sasonger": null,
+   "tillagd": "2000-07-14"
   },
   {
    "id": "ts112049",
@@ -700,6 +685,23 @@
    "tillagd": "2025-06-17"
   },
   {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
+  },
+  {
    "id": "tm60828",
    "typ": "film",
    "titel": "The Best of Men",
@@ -716,6 +718,39 @@
    "imdb": 7.9,
    "sasonger": null,
    "tillagd": "2000-07-14"
+  },
+  {
+   "id": "ts472788",
+   "typ": "serie",
+   "titel": "Frauds",
+   "originaltitel": "Frauds",
+   "ar": 2025,
+   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
+   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
+   "genrer": [
+    "crm",
+    "trl"
+   ],
+   "imdb": 5.7,
+   "sasonger": 1,
+   "tillagd": "2026-02-16"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "tm222940",
@@ -841,23 +876,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts472788",
-   "typ": "serie",
-   "titel": "Frauds",
-   "originaltitel": "Frauds",
-   "ar": 2025,
-   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
-   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
-   "genrer": [
-    "crm",
-    "trl"
-   ],
-   "imdb": 5.7,
-   "sasonger": 1,
-   "tillagd": "2026-02-16"
-  },
-  {
    "id": "ts289810",
    "typ": "serie",
    "titel": "The Thief, His Wife and the Canoe",
@@ -944,23 +962,6 @@
    "imdb": 5.8,
    "sasonger": 1,
    "tillagd": "2022-11-23"
-  },
-  {
-   "id": "tm224629",
-   "typ": "film",
-   "titel": "An Inspector Calls",
-   "originaltitel": "An Inspector Calls",
-   "ar": 2015,
-   "beskrivning": "Året är 1912 och den rika familjen Birling har samlats till fest för att fira sin dotters förlovning när kriminalinspektör Goole knackar på dörren. Han utreder en lokal ung kvinnas självmord och vill tala med familjemedlemmarna om deras kontakter med henne.",
-   "bild": "https://images.justwatch.com/poster/256187400/s166/an-inspector-calls-2015.webp",
-   "lank": "https://www.justwatch.com/se/film/an-inspector-calls-2015",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.6,
-   "sasonger": null,
-   "tillagd": "2000-07-14"
   },
   {
    "id": "tm57819",

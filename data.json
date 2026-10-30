@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-29T10:57Z",
+ "uppdaterad": "2026-10-30T10:55Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -185,23 +185,6 @@
    "tillagd": "2026-01-20"
   },
   {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -218,23 +201,6 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
   },
   {
    "id": "ts22228",
@@ -256,39 +222,20 @@
    "tillagd": "2024-08-14"
   },
   {
-   "id": "ts305546",
+   "id": "ts22171",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "rma"
    ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
-  },
-  {
-   "id": "ts20116",
-   "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
+   "imdb": 8.8,
+   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -310,6 +257,41 @@
    "tillagd": "2026-10-06"
   },
   {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm"
+   ],
+   "imdb": 7,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
+  },
+  {
+   "id": "ts20116",
+   "typ": "serie",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts32526",
    "typ": "serie",
    "titel": "Shetland",
@@ -328,22 +310,22 @@
    "tillagd": "2026-06-17"
   },
   {
-   "id": "ts39247",
+   "id": "ts305546",
    "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-09-25"
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts11564",
@@ -363,6 +345,24 @@
    "imdb": 7.8,
    "sasonger": 15,
    "tillagd": "2026-04-15"
+  },
+  {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
   },
   {
    "id": "ts36929",
@@ -402,6 +402,23 @@
    "tillagd": "2022-05-24"
   },
   {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
    "id": "ts4618",
    "typ": "serie",
    "titel": "Fader Brown",
@@ -437,23 +454,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
-  },
-  {
    "id": "ts5804",
    "typ": "serie",
    "titel": "Helt hysteriskt",
@@ -469,23 +469,6 @@
    "imdb": 8.2,
    "sasonger": 6,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
   },
   {
    "id": "ts261229",
@@ -505,6 +488,23 @@
    "tillagd": "2025-02-19"
   },
   {
+   "id": "ts357650",
+   "typ": "serie",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
+  },
+  {
    "id": "ts20528",
    "typ": "serie",
    "titel": "Ett fall för Vera",
@@ -516,6 +516,7 @@
    "genrer": [
     "crm",
     "drm",
+    "trl",
     "eur"
    ],
    "imdb": 8.2,
@@ -806,22 +807,6 @@
    "tillagd": "2025-01-22"
   },
   {
-   "id": "ts101645",
-   "typ": "serie",
-   "titel": "Visselblåsaren - En läkares kamp",
-   "originaltitel": "Breathtaking",
-   "ar": 2024,
-   "beskrivning": "Abbey Henderson är en effektiv, kompetent och passionerad akutläkare. När covid-19-pandemin startar tvingas hon och hennes kollegor ställa om och fatta snabba, svåra beslut för att rädda liv. Utan tillräckliga tester, ordentliga skyddskläder och med oklara riktlinjer från ledningen ökar pressen än mer.",
-   "bild": "https://images.justwatch.com/poster/320620043/s166/breathtaking.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/breathtaking",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7.6,
-   "sasonger": 1,
-   "tillagd": "2025-08-20"
-  },
-  {
    "id": "ts291563",
    "typ": "serie",
    "titel": "Hope Street",
@@ -909,6 +894,22 @@
    "imdb": 6.1,
    "sasonger": 1,
    "tillagd": "2025-05-29"
+  },
+  {
+   "id": "ts101645",
+   "typ": "serie",
+   "titel": "Visselblåsaren - En läkares kamp",
+   "originaltitel": "Breathtaking",
+   "ar": 2024,
+   "beskrivning": "Abbey Henderson är en effektiv, kompetent och passionerad akutläkare. När covid-19-pandemin startar tvingas hon och hennes kollegor ställa om och fatta snabba, svåra beslut för att rädda liv. Utan tillräckliga tester, ordentliga skyddskläder och med oklara riktlinjer från ledningen ökar pressen än mer.",
+   "bild": "https://images.justwatch.com/poster/320620043/s166/breathtaking.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/breathtaking",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 7.6,
+   "sasonger": 1,
+   "tillagd": "2025-08-20"
   },
   {
    "id": "ts65296",
@@ -1032,22 +1033,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts277413",
-   "typ": "serie",
-   "titel": "Three Little Birds",
-   "originaltitel": "Three Little Birds",
-   "ar": 2023,
-   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
-   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2024-02-08"
-  },
-  {
    "id": "ts78418",
    "typ": "serie",
    "titel": "The Story of Only Fools And Horses",
@@ -1064,6 +1049,22 @@
    "imdb": 8.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts277413",
+   "typ": "serie",
+   "titel": "Three Little Birds",
+   "originaltitel": "Three Little Birds",
+   "ar": 2023,
+   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
+   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 7.2,
+   "sasonger": 1,
+   "tillagd": "2024-02-08"
   },
   {
    "id": "ts436389",

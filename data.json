@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-30T10:55Z",
+ "uppdaterad": "2026-10-31T10:27Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -203,42 +203,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts22228",
-   "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts450529",
    "typ": "serie",
    "titel": "Art Detectives",
@@ -257,39 +221,23 @@
    "tillagd": "2026-10-06"
   },
   {
-   "id": "ts440132",
+   "id": "ts22228",
    "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts20116",
-   "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
    "genrer": [
     "crm",
     "drm",
-    "trl"
+    "trl",
+    "eur"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
   },
   {
    "id": "ts32526",
@@ -310,22 +258,39 @@
    "tillagd": "2026-06-17"
   },
   {
-   "id": "ts305546",
+   "id": "ts20116",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.2,
+   "imdb": 8.5,
    "sasonger": 3,
-   "tillagd": "2026-10-27"
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts11564",
@@ -345,6 +310,42 @@
    "imdb": 7.8,
    "sasonger": 15,
    "tillagd": "2026-04-15"
+  },
+  {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts39247",
@@ -578,6 +579,25 @@
    "tillagd": "2025-08-28"
   },
   {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
+  },
+  {
    "id": "ts446708",
    "typ": "serie",
    "titel": "Coldwater",
@@ -667,6 +687,23 @@
    "tillagd": "2000-07-14"
   },
   {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
+  },
+  {
    "id": "ts112049",
    "typ": "serie",
    "titel": "The Red King",
@@ -684,23 +721,6 @@
    "imdb": 6.7,
    "sasonger": 1,
    "tillagd": "2025-06-17"
-  },
-  {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
   },
   {
    "id": "tm60828",
@@ -928,25 +948,6 @@
    "tillagd": "2025-11-29"
   },
   {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
-  },
-  {
    "id": "ts328236",
    "typ": "serie",
    "titel": "Crossfire",
@@ -1033,6 +1034,22 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts277413",
+   "typ": "serie",
+   "titel": "Three Little Birds",
+   "originaltitel": "Three Little Birds",
+   "ar": 2023,
+   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
+   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 7.2,
+   "sasonger": 1,
+   "tillagd": "2024-02-08"
+  },
+  {
    "id": "ts78418",
    "typ": "serie",
    "titel": "The Story of Only Fools And Horses",
@@ -1049,22 +1066,6 @@
    "imdb": 8.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts277413",
-   "typ": "serie",
-   "titel": "Three Little Birds",
-   "originaltitel": "Three Little Birds",
-   "ar": 2023,
-   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
-   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2024-02-08"
   },
   {
    "id": "ts436389",

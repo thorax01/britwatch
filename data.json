@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-31T10:27Z",
+ "uppdaterad": "2026-11-01T11:21Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -113,6 +113,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts10018",
+   "typ": "serie",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts21447",
    "typ": "serie",
    "titel": "Luther",
@@ -149,23 +166,6 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts8175",
@@ -240,24 +240,6 @@
    "tillagd": "2024-08-14"
   },
   {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
-  },
-  {
    "id": "ts20116",
    "typ": "serie",
    "titel": "Happy Valley",
@@ -276,6 +258,24 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts32526",
+   "typ": "serie",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
+  },
+  {
    "id": "ts22171",
    "typ": "serie",
    "titel": "Stolthet och fördom",
@@ -291,6 +291,24 @@
    "imdb": 8.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts11564",
@@ -328,24 +346,6 @@
    "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
   },
   {
    "id": "ts39247",
@@ -418,6 +418,25 @@
    "imdb": 7.4,
    "sasonger": 6,
    "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
   },
   {
    "id": "ts4618",
@@ -579,25 +598,6 @@
    "tillagd": "2025-08-28"
   },
   {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
-  },
-  {
    "id": "ts446708",
    "typ": "serie",
    "titel": "Coldwater",
@@ -687,23 +687,6 @@
    "tillagd": "2000-07-14"
   },
   {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
-  },
-  {
    "id": "ts112049",
    "typ": "serie",
    "titel": "The Red King",
@@ -721,6 +704,23 @@
    "imdb": 6.7,
    "sasonger": 1,
    "tillagd": "2025-06-17"
+  },
+  {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
   },
   {
    "id": "tm60828",
@@ -741,6 +741,22 @@
    "tillagd": "2000-07-14"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -756,22 +772,6 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "tm222940",
@@ -1034,22 +1034,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts277413",
-   "typ": "serie",
-   "titel": "Three Little Birds",
-   "originaltitel": "Three Little Birds",
-   "ar": 2023,
-   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
-   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2024-02-08"
-  },
-  {
    "id": "ts78418",
    "typ": "serie",
    "titel": "The Story of Only Fools And Horses",
@@ -1066,6 +1050,22 @@
    "imdb": 8.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts277413",
+   "typ": "serie",
+   "titel": "Three Little Birds",
+   "originaltitel": "Three Little Birds",
+   "ar": 2023,
+   "beskrivning": "En livsbejakande historia om systrarna Leah och Chantrelle och väninnan Hosanna från Jamaica som söker lyckan i 1950-talets Storbritannien.",
+   "bild": "https://images.justwatch.com/poster/309075807/s166/three-little-birds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/three-little-birds",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 7.2,
+   "sasonger": 1,
+   "tillagd": "2024-02-08"
   },
   {
    "id": "ts436389",

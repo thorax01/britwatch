@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-01T11:21Z",
+ "uppdaterad": "2026-11-02T12:35Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -149,6 +149,23 @@
    "tillagd": "2024-01-17"
   },
   {
+   "id": "ts8175",
+   "typ": "serie",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "genrer": [
+    "drm",
+    "hst"
+   ],
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
+  },
+  {
    "id": "ts258950",
    "typ": "serie",
    "titel": "Dödligt kapitel",
@@ -166,23 +183,6 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
   },
   {
    "id": "ts21621",
@@ -385,6 +385,25 @@
    "tillagd": "2026-05-06"
   },
   {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
+  },
+  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -418,25 +437,6 @@
    "imdb": 7.4,
    "sasonger": 6,
    "tillagd": "2026-08-12"
-  },
-  {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
   },
   {
    "id": "ts4618",
@@ -741,22 +741,6 @@
    "tillagd": "2000-07-14"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -772,6 +756,22 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "tm222940",
@@ -825,6 +825,24 @@
    "imdb": 6.8,
    "sasonger": 4,
    "tillagd": "2025-01-22"
+  },
+  {
+   "id": "ts388976",
+   "typ": "serie",
+   "titel": "Finders Keepers",
+   "originaltitel": "Finders Keepers",
+   "ar": 2024,
+   "beskrivning": "Martin och hans blivande svärson Ashley är ute i Somersets natur med sina metalldetektorer när de bokstavligen hittar en skatt, nedgrävd på saxarnas tid. De borde rapportera in fyndet till myndigheterna men skatten skulle lösa alla deras pengaproblem. De står inför ett svårt dilemma och deras val kommer att få stora konsekvenser.",
+   "bild": "https://images.justwatch.com/poster/320307292/s166/finders-keepers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/finders-keepers",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.1,
+   "sasonger": 1,
+   "tillagd": "2025-05-29"
   },
   {
    "id": "ts291563",
@@ -896,24 +914,6 @@
    "imdb": 7.2,
    "sasonger": 1,
    "tillagd": "2022-08-23"
-  },
-  {
-   "id": "ts388976",
-   "typ": "serie",
-   "titel": "Finders Keepers",
-   "originaltitel": "Finders Keepers",
-   "ar": 2024,
-   "beskrivning": "Martin och hans blivande svärson Ashley är ute i Somersets natur med sina metalldetektorer när de bokstavligen hittar en skatt, nedgrävd på saxarnas tid. De borde rapportera in fyndet till myndigheterna men skatten skulle lösa alla deras pengaproblem. De står inför ett svårt dilemma och deras val kommer att få stora konsekvenser.",
-   "bild": "https://images.justwatch.com/poster/320307292/s166/finders-keepers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/finders-keepers",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2025-05-29"
   },
   {
    "id": "ts101645",

@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-02T12:35Z",
+ "uppdaterad": "2026-11-03T12:01Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -130,6 +130,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts8175",
+   "typ": "serie",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "genrer": [
+    "drm",
+    "hst"
+   ],
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
+  },
+  {
    "id": "ts21447",
    "typ": "serie",
    "titel": "Luther",
@@ -149,21 +166,22 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts8175",
+   "id": "ts450529",
    "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
    "genrer": [
+    "crm",
     "drm",
-    "hst"
+    "trl"
    ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
   },
   {
    "id": "ts258950",
@@ -203,24 +221,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts450529",
-   "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
-  },
-  {
    "id": "ts22228",
    "typ": "serie",
    "titel": "Morden i Midsomer",
@@ -232,7 +232,6 @@
    "genrer": [
     "crm",
     "drm",
-    "trl",
     "eur"
    ],
    "imdb": 7.9,
@@ -258,24 +257,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
-  },
-  {
    "id": "ts22171",
    "typ": "serie",
    "titel": "Stolthet och fördom",
@@ -293,22 +274,22 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts305546",
+   "id": "ts32526",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts11564",
@@ -328,6 +309,24 @@
    "imdb": 7.8,
    "sasonger": 15,
    "tillagd": "2026-04-15"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts440132",
@@ -385,25 +384,6 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
-  },
-  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -437,6 +417,25 @@
    "imdb": 7.4,
    "sasonger": 6,
    "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
   },
   {
    "id": "ts4618",
@@ -741,6 +740,22 @@
    "tillagd": "2000-07-14"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -756,22 +771,6 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "tm222940",
@@ -827,24 +826,6 @@
    "tillagd": "2025-01-22"
   },
   {
-   "id": "ts388976",
-   "typ": "serie",
-   "titel": "Finders Keepers",
-   "originaltitel": "Finders Keepers",
-   "ar": 2024,
-   "beskrivning": "Martin och hans blivande svärson Ashley är ute i Somersets natur med sina metalldetektorer när de bokstavligen hittar en skatt, nedgrävd på saxarnas tid. De borde rapportera in fyndet till myndigheterna men skatten skulle lösa alla deras pengaproblem. De står inför ett svårt dilemma och deras val kommer att få stora konsekvenser.",
-   "bild": "https://images.justwatch.com/poster/320307292/s166/finders-keepers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/finders-keepers",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2025-05-29"
-  },
-  {
    "id": "ts291563",
    "typ": "serie",
    "titel": "Hope Street",
@@ -897,6 +878,24 @@
    "imdb": 7.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts388976",
+   "typ": "serie",
+   "titel": "Finders Keepers",
+   "originaltitel": "Finders Keepers",
+   "ar": 2024,
+   "beskrivning": "Martin och hans blivande svärson Ashley är ute i Somersets natur med sina metalldetektorer när de bokstavligen hittar en skatt, nedgrävd på saxarnas tid. De borde rapportera in fyndet till myndigheterna men skatten skulle lösa alla deras pengaproblem. De står inför ett svårt dilemma och deras val kommer att få stora konsekvenser.",
+   "bild": "https://images.justwatch.com/poster/320307292/s166/finders-keepers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/finders-keepers",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.1,
+   "sasonger": 1,
+   "tillagd": "2025-05-29"
   },
   {
    "id": "ts289810",

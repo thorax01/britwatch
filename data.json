@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-03T12:01Z",
+ "uppdaterad": "2026-11-04T12:15Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -68,7 +68,6 @@
    "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
     "crm",
-    "drm",
     "trl"
    ],
    "imdb": 6.6,
@@ -113,40 +112,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
-  },
-  {
    "id": "ts21447",
    "typ": "serie",
    "titel": "Luther",
@@ -166,22 +131,56 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts450529",
+   "id": "ts8175",
    "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "hst"
    ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
+  },
+  {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts10018",
+   "typ": "serie",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts258950",
@@ -203,22 +202,22 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts21621",
+   "id": "ts450529",
    "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
    "genrer": [
-    "cmy",
+    "crm",
     "drm",
-    "eur"
+    "trl"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
   },
   {
    "id": "ts22228",
@@ -237,6 +236,24 @@
    "imdb": 7.9,
    "sasonger": 26,
    "tillagd": "2024-08-14"
+  },
+  {
+   "id": "ts32526",
+   "typ": "serie",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts20116",
@@ -272,24 +289,6 @@
    "imdb": 8.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
   },
   {
    "id": "ts11564",
@@ -342,7 +341,7 @@
     "drm",
     "trl"
    ],
-   "imdb": 7,
+   "imdb": 7.1,
    "sasonger": 2,
    "tillagd": "2026-07-31"
   },
@@ -365,6 +364,24 @@
    "tillagd": "2026-09-25"
   },
   {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
    "id": "ts36929",
    "typ": "serie",
    "titel": "Saknad, aldrig glömd",
@@ -382,6 +399,23 @@
    "imdb": 8.4,
    "sasonger": 6,
    "tillagd": "2026-05-06"
+  },
+  {
+   "id": "ts357650",
+   "typ": "serie",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
   },
   {
    "id": "ts2287",
@@ -438,24 +472,6 @@
    "tillagd": "2024-11-01"
   },
   {
-   "id": "ts4618",
-   "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
-  },
-  {
    "id": "ts21686",
    "typ": "serie",
    "titel": "Ett herrans liv",
@@ -505,23 +521,6 @@
    "imdb": 7.1,
    "sasonger": 3,
    "tillagd": "2025-02-19"
-  },
-  {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
   },
   {
    "id": "ts20528",
@@ -577,6 +576,23 @@
    "imdb": 7.4,
    "sasonger": 2,
    "tillagd": "2025-04-15"
+  },
+  {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
   },
   {
    "id": "ts441490",
@@ -684,42 +700,6 @@
    "imdb": 7.6,
    "sasonger": null,
    "tillagd": "2000-07-14"
-  },
-  {
-   "id": "ts112049",
-   "typ": "serie",
-   "titel": "The Red King",
-   "originaltitel": "The Red King",
-   "ar": 2024,
-   "beskrivning": "Kriminalinspektör Grace Narayan förflyttas till en enslig ö i Wales där lokalbefolkningen ruvar på hemligheter och har dolda traditioner.",
-   "bild": "https://images.justwatch.com/poster/323233927/s166/the-red-king.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-red-king",
-   "genrer": [
-    "crm",
-    "drm",
-    "hrr",
-    "trl"
-   ],
-   "imdb": 6.7,
-   "sasonger": 1,
-   "tillagd": "2025-06-17"
-  },
-  {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
   },
   {
    "id": "tm60828",
@@ -862,6 +842,24 @@
    "tillagd": "2025-12-19"
   },
   {
+   "id": "ts328236",
+   "typ": "serie",
+   "titel": "Crossfire",
+   "originaltitel": "Crossfire",
+   "ar": 2022,
+   "beskrivning": "A group of holidaymakers are caught up in a gun attack on the hotel where they are staying",
+   "bild": "https://images.justwatch.com/poster/318335591/s166/crossfire.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/crossfire",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2022-11-23"
+  },
+  {
    "id": "ts379480",
    "typ": "serie",
    "titel": "Payback",
@@ -878,24 +876,6 @@
    "imdb": 7.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts388976",
-   "typ": "serie",
-   "titel": "Finders Keepers",
-   "originaltitel": "Finders Keepers",
-   "ar": 2024,
-   "beskrivning": "Martin och hans blivande svärson Ashley är ute i Somersets natur med sina metalldetektorer när de bokstavligen hittar en skatt, nedgrävd på saxarnas tid. De borde rapportera in fyndet till myndigheterna men skatten skulle lösa alla deras pengaproblem. De står inför ett svårt dilemma och deras val kommer att få stora konsekvenser.",
-   "bild": "https://images.justwatch.com/poster/320307292/s166/finders-keepers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/finders-keepers",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2025-05-29"
   },
   {
    "id": "ts289810",
@@ -915,22 +895,6 @@
    "tillagd": "2022-08-23"
   },
   {
-   "id": "ts101645",
-   "typ": "serie",
-   "titel": "Visselblåsaren - En läkares kamp",
-   "originaltitel": "Breathtaking",
-   "ar": 2024,
-   "beskrivning": "Abbey Henderson är en effektiv, kompetent och passionerad akutläkare. När covid-19-pandemin startar tvingas hon och hennes kollegor ställa om och fatta snabba, svåra beslut för att rädda liv. Utan tillräckliga tester, ordentliga skyddskläder och med oklara riktlinjer från ledningen ökar pressen än mer.",
-   "bild": "https://images.justwatch.com/poster/320620043/s166/breathtaking.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/breathtaking",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7.6,
-   "sasonger": 1,
-   "tillagd": "2025-08-20"
-  },
-  {
    "id": "ts65296",
    "typ": "serie",
    "titel": "The Inheritance",
@@ -947,22 +911,20 @@
    "tillagd": "2025-11-29"
   },
   {
-   "id": "ts328236",
+   "id": "ts101645",
    "typ": "serie",
-   "titel": "Crossfire",
-   "originaltitel": "Crossfire",
-   "ar": 2022,
-   "beskrivning": "A group of holidaymakers are caught up in a gun attack on the hotel where they are staying",
-   "bild": "https://images.justwatch.com/poster/318335591/s166/crossfire.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/crossfire",
+   "titel": "Visselblåsaren - En läkares kamp",
+   "originaltitel": "Breathtaking",
+   "ar": 2024,
+   "beskrivning": "Abbey Henderson är en effektiv, kompetent och passionerad akutläkare. När covid-19-pandemin startar tvingas hon och hennes kollegor ställa om och fatta snabba, svåra beslut för att rädda liv. Utan tillräckliga tester, ordentliga skyddskläder och med oklara riktlinjer från ledningen ökar pressen än mer.",
+   "bild": "https://images.justwatch.com/poster/320620043/s166/breathtaking.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/breathtaking",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 5.8,
+   "imdb": 7.6,
    "sasonger": 1,
-   "tillagd": "2022-11-23"
+   "tillagd": "2025-08-20"
   },
   {
    "id": "tm57819",

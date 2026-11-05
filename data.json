@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-04T12:15Z",
+ "uppdaterad": "2026-11-05T12:29Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -93,25 +93,6 @@
    "tillagd": "2026-09-15"
   },
   {
-   "id": "ts27630",
-   "typ": "serie",
-   "titel": "Line of Duty",
-   "originaltitel": "Line of Duty",
-   "ar": 2012,
-   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
-   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.7,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts21447",
    "typ": "serie",
    "titel": "Luther",
@@ -131,6 +112,25 @@
    "tillagd": "2024-01-17"
   },
   {
+   "id": "ts27630",
+   "typ": "serie",
+   "titel": "Line of Duty",
+   "originaltitel": "Line of Duty",
+   "ar": 2012,
+   "beskrivning": "Steve Arnott leder enheten AC-12 vars uppdrag är att bekämpa korruption inom den brittiska poliskåren.",
+   "bild": "https://images.justwatch.com/poster/139146765/s166/line-of-duty.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/line-of-duty",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.7,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts8175",
    "typ": "serie",
    "titel": "Barnmorskan i East End",
@@ -146,41 +146,6 @@
    "imdb": 8.6,
    "sasonger": 15,
    "tillagd": "2026-01-20"
-  },
-  {
-   "id": "ts21621",
-   "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
-   "genrer": [
-    "cmy",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts258950",
@@ -220,22 +185,56 @@
    "tillagd": "2026-10-06"
   },
   {
-   "id": "ts22228",
+   "id": "ts21621",
    "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
    "genrer": [
-    "crm",
+    "cmy",
     "drm",
     "eur"
    ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts10018",
+   "typ": "serie",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts32526",
@@ -274,23 +273,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts11564",
    "typ": "serie",
    "titel": "Mord i Paradiset",
@@ -308,6 +290,24 @@
    "imdb": 7.8,
    "sasonger": 15,
    "tillagd": "2026-04-15"
+  },
+  {
+   "id": "ts22228",
+   "typ": "serie",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
+   "genrer": [
+    "crm",
+    "drm",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
   },
   {
    "id": "ts305546",
@@ -338,30 +338,11 @@
    "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
    "genrer": [
     "cmy",
-    "drm",
-    "trl"
+    "drm"
    ],
    "imdb": 7.1,
    "sasonger": 2,
    "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts39247",
-   "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-09-25"
   },
   {
    "id": "ts4618",
@@ -380,6 +361,24 @@
    "imdb": 7.8,
    "sasonger": 13,
    "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
   },
   {
    "id": "ts36929",
@@ -401,23 +400,6 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
-  },
-  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -434,6 +416,23 @@
    "imdb": 8.6,
    "sasonger": 13,
    "tillagd": "2022-05-24"
+  },
+  {
+   "id": "ts357650",
+   "typ": "serie",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
   },
   {
    "id": "ts286379",
@@ -453,6 +452,23 @@
    "tillagd": "2026-08-12"
   },
   {
+   "id": "ts21686",
+   "typ": "serie",
+   "titel": "Ett herrans liv",
+   "originaltitel": "The Vicar of Dibley",
+   "ar": 1994,
+   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
+   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 5,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts345331",
    "typ": "serie",
    "titel": "Passenger",
@@ -470,23 +486,6 @@
    "imdb": 5.8,
    "sasonger": 1,
    "tillagd": "2024-11-01"
-  },
-  {
-   "id": "ts21686",
-   "typ": "serie",
-   "titel": "Ett herrans liv",
-   "originaltitel": "The Vicar of Dibley",
-   "ar": 1994,
-   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
-   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 5,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts5804",
@@ -540,6 +539,22 @@
    "imdb": 8.2,
    "sasonger": 14,
    "tillagd": "2026-03-02"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts43416",
@@ -613,22 +628,21 @@
    "tillagd": "2025-08-28"
   },
   {
-   "id": "ts446708",
+   "id": "ts289810",
    "typ": "serie",
-   "titel": "Coldwater",
-   "originaltitel": "Coldwater",
-   "ar": 2025,
-   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
-   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
+   "titel": "The Thief, His Wife and the Canoe",
+   "originaltitel": "The Thief, His Wife and the Canoe",
+   "ar": 2022,
+   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
+   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
    "genrer": [
     "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 6.2,
+   "imdb": 7.2,
    "sasonger": 1,
-   "tillagd": "2026-05-07"
+   "tillagd": "2022-08-23"
   },
   {
    "id": "ts311095",
@@ -647,7 +661,25 @@
    ],
    "imdb": 7.2,
    "sasonger": 4,
-   "tillagd": "2025-07-16"
+   "tillagd": "2026-11-05"
+  },
+  {
+   "id": "ts446708",
+   "typ": "serie",
+   "titel": "Coldwater",
+   "originaltitel": "Coldwater",
+   "ar": 2025,
+   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
+   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.2,
+   "sasonger": 1,
+   "tillagd": "2026-05-07"
   },
   {
    "id": "ts492740",
@@ -718,22 +750,6 @@
    "imdb": 7.9,
    "sasonger": null,
    "tillagd": "2000-07-14"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts472788",
@@ -842,6 +858,22 @@
    "tillagd": "2025-12-19"
   },
   {
+   "id": "ts436389",
+   "typ": "serie",
+   "titel": "Travels with Agatha Christie & Sir David Suchet",
+   "originaltitel": "Travels with Agatha Christie & Sir David Suchet",
+   "ar": 2025,
+   "beskrivning": "Skådespelaren David Suchet (Poirot) reser till platser som Agatha Christie besökte under sin legendariska karriär som deckarförfattare.",
+   "bild": "https://images.justwatch.com/poster/327089678/s166/travels-with-agatha-with-sir-david-suchet.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/travels-with-agatha-with-sir-david-suchet",
+   "genrer": [
+    "doc"
+   ],
+   "imdb": 7.9,
+   "sasonger": 1,
+   "tillagd": "2025-03-26"
+  },
+  {
    "id": "ts328236",
    "typ": "serie",
    "titel": "Crossfire",
@@ -876,23 +908,6 @@
    "imdb": 7.3,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts289810",
-   "typ": "serie",
-   "titel": "The Thief, His Wife and the Canoe",
-   "originaltitel": "The Thief, His Wife and the Canoe",
-   "ar": 2022,
-   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
-   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2022-08-23"
   },
   {
    "id": "ts65296",
@@ -1027,22 +1042,6 @@
    "imdb": 7.2,
    "sasonger": 1,
    "tillagd": "2024-02-08"
-  },
-  {
-   "id": "ts436389",
-   "typ": "serie",
-   "titel": "Travels with Agatha Christie & Sir David Suchet",
-   "originaltitel": "Travels with Agatha Christie & Sir David Suchet",
-   "ar": 2025,
-   "beskrivning": "Skådespelaren David Suchet (Poirot) reser till platser som Agatha Christie besökte under sin legendariska karriär som deckarförfattare.",
-   "bild": "https://images.justwatch.com/poster/327089678/s166/travels-with-agatha-with-sir-david-suchet.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/travels-with-agatha-with-sir-david-suchet",
-   "genrer": [
-    "doc"
-   ],
-   "imdb": 7.9,
-   "sasonger": 1,
-   "tillagd": "2025-03-26"
   },
   {
    "id": "ts360841",

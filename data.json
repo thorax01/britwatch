@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-06T12:13Z",
+ "uppdaterad": "2026-11-07T11:09Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -53,26 +53,27 @@
     "trl",
     "rma"
    ],
-   "imdb": 6.4,
+   "imdb": 6.3,
    "sasonger": 1,
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts414531",
+   "id": "ts67396",
    "typ": "serie",
-   "titel": "After the Flood",
-   "originaltitel": "After the Flood",
-   "ar": 2024,
-   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
-   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
    "genrer": [
-    "crm",
-    "trl"
+    "cmy",
+    "fnt",
+    "scf"
    ],
-   "imdb": 6.6,
-   "sasonger": 2,
-   "tillagd": "2026-08-25"
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2026-09-15"
   },
   {
    "id": "ts27630",
@@ -94,22 +95,21 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts67396",
+   "id": "ts414531",
    "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "titel": "After the Flood",
+   "originaltitel": "After the Flood",
+   "ar": 2024,
+   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
+   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
+    "crm",
+    "trl"
    ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2026-09-15"
+   "imdb": 6.6,
+   "sasonger": 2,
+   "tillagd": "2026-08-25"
   },
   {
    "id": "ts21447",
@@ -238,24 +238,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
-  },
-  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -273,23 +255,22 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts11564",
+   "id": "ts32526",
    "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
    "genrer": [
-    "cmy",
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts22228",
@@ -310,22 +291,23 @@
    "tillagd": "2024-08-14"
   },
   {
-   "id": "ts4618",
+   "id": "ts11564",
    "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
+    "cmy",
     "crm",
     "drm",
     "trl"
    ],
    "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts305546",
@@ -358,9 +340,27 @@
     "cmy",
     "drm"
    ],
-   "imdb": 7.1,
+   "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
+  },
+  {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
   },
   {
    "id": "ts39247",
@@ -486,6 +486,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts261229",
+   "typ": "serie",
+   "titel": "The Cleaner",
+   "originaltitel": "The Cleaner",
+   "ar": 2021,
+   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
+   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
+   "genrer": [
+    "cmy",
+    "crm"
+   ],
+   "imdb": 7.1,
+   "sasonger": 3,
+   "tillagd": "2025-02-19"
+  },
+  {
    "id": "ts345331",
    "typ": "serie",
    "titel": "Passenger",
@@ -505,23 +522,6 @@
    "tillagd": "2024-11-01"
   },
   {
-   "id": "ts261229",
-   "typ": "serie",
-   "titel": "The Cleaner",
-   "originaltitel": "The Cleaner",
-   "ar": 2021,
-   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
-   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
-   "genrer": [
-    "cmy",
-    "crm"
-   ],
-   "imdb": 7.1,
-   "sasonger": 3,
-   "tillagd": "2025-02-19"
-  },
-  {
    "id": "ts20528",
    "typ": "serie",
    "titel": "Ett fall för Vera",
@@ -539,24 +539,6 @@
    "imdb": 8.2,
    "sasonger": 14,
    "tillagd": "2026-03-02"
-  },
-  {
-   "id": "ts321801",
-   "typ": "serie",
-   "titel": "Sherwood",
-   "originaltitel": "Sherwood",
-   "ar": 2022,
-   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
-   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.4,
-   "sasonger": 2,
-   "tillagd": "2025-04-15"
   },
   {
    "id": "ts351780",
@@ -626,6 +608,24 @@
    "imdb": 7,
    "sasonger": 1,
    "tillagd": "2025-08-28"
+  },
+  {
+   "id": "ts321801",
+   "typ": "serie",
+   "titel": "Sherwood",
+   "originaltitel": "Sherwood",
+   "ar": 2022,
+   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
+   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.4,
+   "sasonger": 2,
+   "tillagd": "2025-04-15"
   },
   {
    "id": "ts492740",
@@ -752,6 +752,25 @@
    "tillagd": "2026-02-16"
   },
   {
+   "id": "ts20228",
+   "typ": "serie",
+   "titel": "Den skyldige",
+   "originaltitel": "The Guilty",
+   "ar": 2013,
+   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
+   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.7,
+   "sasonger": 1,
+   "tillagd": "2026-11-05"
+  },
+  {
    "id": "tm222940",
    "typ": "film",
    "titel": "Lady Chatterleys älskare",
@@ -820,25 +839,6 @@
    "imdb": 6.8,
    "sasonger": 4,
    "tillagd": "2025-01-22"
-  },
-  {
-   "id": "ts20228",
-   "typ": "serie",
-   "titel": "Den skyldige",
-   "originaltitel": "The Guilty",
-   "ar": 2013,
-   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
-   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.7,
-   "sasonger": 1,
-   "tillagd": "2026-11-05"
   },
   {
    "id": "ts291563",
@@ -1015,10 +1015,10 @@
   {
    "id": "ts78418",
    "typ": "serie",
-   "titel": "The Story of Only Fools And Horses",
-   "originaltitel": "The Story of Only Fools And Horses",
+   "titel": "The Story of Only Fools and Horses",
+   "originaltitel": "The Story of Only Fools and Horses",
    "ar": 2017,
-   "beskrivning": "In this definitive six-part UKTV Original, Gold explores every aspect of Britain's most loved sitcom, Only Fools and Horses. With exclusive access to the key cast members, including Sir David Jason and Nicholas Lyndhurst, the series gives rare insights into the show and what went on both on and off camera. The Story Of Only Fools And Horses reunites cast members, rebuilds some of the sets and features rare and previously unseen material.",
+   "beskrivning": "In this definitive six-part UKTV Original, Gold explores every aspect of Britain's most loved sitcom, Only Fools and Horses. With exclusive access to the key cast members, including Sir David Jason and Nicholas Lyndhurst, the series gives rare insights into the show and what went on both on and off camera. The Story Of Only Fools and Horses reunites cast members, rebuilds some of the sets and features rare and previously unseen material.",
    "bild": "https://images.justwatch.com/poster/203723488/s166/the-story-of-only-fools-and-horses.webp",
    "lank": "https://www.justwatch.com/se/tv-serie/the-story-of-only-fools-and-horses",
    "genrer": [

@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-08T11:22Z",
+ "uppdaterad": "2026-11-09T12:59Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -58,22 +58,23 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts67396",
+   "id": "ts21447",
    "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
    "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
+    "crm",
+    "drm",
+    "trl",
+    "eur"
    ],
    "imdb": 8.4,
    "sasonger": 5,
-   "tillagd": "2026-09-15"
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts27630",
@@ -95,23 +96,22 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts21447",
+   "id": "ts67396",
    "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
    "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
+    "cmy",
+    "fnt",
+    "scf"
    ],
    "imdb": 8.4,
    "sasonger": 5,
-   "tillagd": "2024-01-17"
+   "tillagd": "2026-09-15"
   },
   {
    "id": "ts414531",
@@ -131,22 +131,21 @@
    "tillagd": "2026-08-25"
   },
   {
-   "id": "ts450529",
+   "id": "ts18844",
    "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "titel": "Pang i bygget",
+   "originaltitel": "Fawlty Towers",
+   "ar": 1975,
+   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
+   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "eur"
    ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
+   "imdb": 8.8,
+   "sasonger": 2,
+   "tillagd": "2026-11-09"
   },
   {
    "id": "ts8175",
@@ -164,24 +163,6 @@
    "imdb": 8.6,
    "sasonger": 15,
    "tillagd": "2026-01-20"
-  },
-  {
-   "id": "ts21621",
-   "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
-   "genrer": [
-    "cmy",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts258950",
@@ -203,20 +184,39 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts22171",
+   "id": "ts450529",
    "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
    "genrer": [
+    "crm",
     "drm",
-    "rma"
+    "trl"
    ],
-   "imdb": 8.8,
+   "imdb": 6.8,
    "sasonger": 1,
+   "tillagd": "2026-10-06"
+  },
+  {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
    "tillagd": "2024-01-11"
   },
   {
@@ -238,20 +238,20 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts10018",
+   "id": "ts22171",
    "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
    "genrer": [
-    "cmy",
-    "eur"
+    "drm",
+    "rma"
    ],
-   "imdb": 8,
-   "sasonger": 4,
+   "imdb": 8.8,
+   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -273,23 +273,58 @@
    "tillagd": "2026-06-17"
   },
   {
-   "id": "ts11564",
+   "id": "ts10018",
    "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
    "genrer": [
     "cmy",
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
   },
   {
    "id": "ts22228",
@@ -308,6 +343,25 @@
    "imdb": 7.9,
    "sasonger": 26,
    "tillagd": "2024-08-14"
+  },
+  {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts305546",
@@ -343,43 +397,6 @@
    "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
-  },
-  {
-   "id": "ts4618",
-   "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
   },
   {
    "id": "ts39247",
@@ -419,6 +436,23 @@
    "tillagd": "2026-05-06"
   },
   {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -435,23 +469,6 @@
    "imdb": 8.6,
    "sasonger": 13,
    "tillagd": "2022-05-24"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
   },
   {
    "id": "ts357650",
@@ -541,6 +558,22 @@
    "tillagd": "2026-03-02"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "ts21839",
    "typ": "serie",
    "titel": "Skenet bedrar",
@@ -556,22 +589,6 @@
    "imdb": 7.9,
    "sasonger": 5,
    "tillagd": "2024-05-15"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts43416",
@@ -770,23 +787,6 @@
    "tillagd": "2026-02-13"
   },
   {
-   "id": "ts289810",
-   "typ": "serie",
-   "titel": "The Thief, His Wife and the Canoe",
-   "originaltitel": "The Thief, His Wife and the Canoe",
-   "ar": 2022,
-   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
-   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.2,
-   "sasonger": 1,
-   "tillagd": "2022-08-23"
-  },
-  {
    "id": "ts306247",
    "typ": "serie",
    "titel": "Ridley",
@@ -803,6 +803,23 @@
    "imdb": 6.9,
    "sasonger": 2,
    "tillagd": "2024-12-18"
+  },
+  {
+   "id": "ts289810",
+   "typ": "serie",
+   "titel": "The Thief, His Wife and the Canoe",
+   "originaltitel": "The Thief, His Wife and the Canoe",
+   "ar": 2022,
+   "beskrivning": "År 2002 paddlade fångvaktaren John Darwin ut på sjön och fejkade sin egen död för att få ut försäkringspengarna. Till hjälp hade han sin fru.",
+   "bild": "https://images.justwatch.com/poster/272395829/s166/the-thief-his-wife-and-the-canoe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-thief-his-wife-and-the-canoe",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.2,
+   "sasonger": 1,
+   "tillagd": "2022-08-23"
   },
   {
    "id": "ts87069",

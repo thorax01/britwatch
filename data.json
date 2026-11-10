@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-09T12:59Z",
+ "uppdaterad": "2026-11-10T12:45Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,42 +39,22 @@
    "tillagd": "2025-11-19"
   },
   {
-   "id": "ts526671",
+   "id": "ts67396",
    "typ": "serie",
-   "titel": "Agatha Christie's Tommy & Tuppence",
-   "originaltitel": "Tommy & Tuppence",
-   "ar": 2026,
-   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
-   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
    "genrer": [
     "cmy",
-    "crm",
-    "trl",
-    "rma"
-   ],
-   "imdb": 6.3,
-   "sasonger": 1,
-   "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts21447",
-   "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
+    "fnt",
+    "scf"
    ],
    "imdb": 8.4,
    "sasonger": 5,
-   "tillagd": "2024-01-17"
+   "tillagd": "2026-09-15"
   },
   {
    "id": "ts27630",
@@ -96,22 +76,23 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts67396",
+   "id": "ts526671",
    "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "titel": "Agatha Christie's Tommy & Tuppence",
+   "originaltitel": "Tommy & Tuppence",
+   "ar": 2026,
+   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
+   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
    "genrer": [
     "cmy",
-    "fnt",
-    "scf"
+    "crm",
+    "trl",
+    "rma"
    ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2026-09-15"
+   "imdb": 6.3,
+   "sasonger": 1,
+   "tillagd": "2026-09-29"
   },
   {
    "id": "ts414531",
@@ -129,6 +110,25 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
+  },
+  {
+   "id": "ts21447",
+   "typ": "serie",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts18844",
@@ -163,6 +163,24 @@
    "imdb": 8.6,
    "sasonger": 15,
    "tillagd": "2026-01-20"
+  },
+  {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts258950",
@@ -202,24 +220,6 @@
    "tillagd": "2026-10-06"
   },
   {
-   "id": "ts21621",
-   "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
-   "genrer": [
-    "cmy",
-    "drm",
-    "eur"
-   ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts20116",
    "typ": "serie",
    "titel": "Happy Valley",
@@ -235,23 +235,6 @@
    ],
    "imdb": 8.5,
    "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
@@ -271,6 +254,23 @@
    "imdb": 8.3,
    "sasonger": 11,
    "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts10018",
@@ -308,25 +308,6 @@
    "tillagd": "2026-07-15"
   },
   {
-   "id": "ts345331",
-   "typ": "serie",
-   "titel": "Passenger",
-   "originaltitel": "Passenger",
-   "ar": 2024,
-   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
-   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 5.8,
-   "sasonger": 1,
-   "tillagd": "2024-11-01"
-  },
-  {
    "id": "ts22228",
    "typ": "serie",
    "titel": "Morden i Midsomer",
@@ -343,25 +324,6 @@
    "imdb": 7.9,
    "sasonger": 26,
    "tillagd": "2024-08-14"
-  },
-  {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
   },
   {
    "id": "ts305546",
@@ -399,6 +361,44 @@
    "tillagd": "2026-07-31"
   },
   {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
+  },
+  {
+   "id": "ts345331",
+   "typ": "serie",
+   "titel": "Passenger",
+   "originaltitel": "Passenger",
+   "ar": 2024,
+   "beskrivning": "Kriminalkommissarie Riya Ajunwas (Wunmi Mosaku från Luther) rutinmässiga liv i staden Chadder Vale rörs om när Katie Wells försvinner. Lika plötsligt dyker hon upp igen ett dygn senare, utan en skråma. Riya misstänker att något är fel.",
+   "bild": "https://images.justwatch.com/poster/322100585/s166/passenger.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/passenger",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 5.8,
+   "sasonger": 1,
+   "tillagd": "2024-11-01"
+  },
+  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -428,7 +428,6 @@
    "genrer": [
     "crm",
     "drm",
-    "trl",
     "eur"
    ],
    "imdb": 8.4,
@@ -574,23 +573,6 @@
    "tillagd": "2025-09-10"
   },
   {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
-  },
-  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -607,6 +589,23 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-08-21"
+  },
+  {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
   },
   {
    "id": "ts441490",
@@ -627,23 +626,6 @@
    "tillagd": "2025-08-28"
   },
   {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
-  },
-  {
    "id": "ts321801",
    "typ": "serie",
    "titel": "Sherwood",
@@ -660,6 +642,23 @@
    "imdb": 7.4,
    "sasonger": 2,
    "tillagd": "2025-04-15"
+  },
+  {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
   },
   {
    "id": "ts311095",
@@ -717,6 +716,23 @@
    "tillagd": "2026-10-13"
   },
   {
+   "id": "ts472788",
+   "typ": "serie",
+   "titel": "Frauds",
+   "originaltitel": "Frauds",
+   "ar": 2025,
+   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
+   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
+   "genrer": [
+    "crm",
+    "trl"
+   ],
+   "imdb": 5.7,
+   "sasonger": 1,
+   "tillagd": "2026-02-16"
+  },
+  {
    "id": "tm224629",
    "typ": "film",
    "titel": "An Inspector Calls",
@@ -751,23 +767,6 @@
    "imdb": 7.9,
    "sasonger": null,
    "tillagd": "2000-07-14"
-  },
-  {
-   "id": "ts472788",
-   "typ": "serie",
-   "titel": "Frauds",
-   "originaltitel": "Frauds",
-   "ar": 2025,
-   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
-   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
-   "genrer": [
-    "crm",
-    "trl"
-   ],
-   "imdb": 5.7,
-   "sasonger": 1,
-   "tillagd": "2026-02-16"
   },
   {
    "id": "tm222940",

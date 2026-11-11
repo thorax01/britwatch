@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-10T12:45Z",
+ "uppdaterad": "2026-11-11T11:56Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,22 +39,23 @@
    "tillagd": "2025-11-19"
   },
   {
-   "id": "ts67396",
+   "id": "ts21447",
    "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
    "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
+    "crm",
+    "drm",
+    "trl",
+    "eur"
    ],
    "imdb": 8.4,
    "sasonger": 5,
-   "tillagd": "2026-09-15"
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts27630",
@@ -76,6 +77,24 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts67396",
+   "typ": "serie",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "genrer": [
+    "cmy",
+    "fnt",
+    "scf"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2026-09-15"
+  },
+  {
    "id": "ts526671",
    "typ": "serie",
    "titel": "Agatha Christie's Tommy & Tuppence",
@@ -90,7 +109,7 @@
     "trl",
     "rma"
    ],
-   "imdb": 6.3,
+   "imdb": 6.4,
    "sasonger": 1,
    "tillagd": "2026-09-29"
   },
@@ -110,25 +129,6 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
-  },
-  {
-   "id": "ts21447",
-   "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2024-01-17"
   },
   {
    "id": "ts18844",
@@ -181,6 +181,24 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts32526",
+   "typ": "serie",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
   },
   {
    "id": "ts258950",
@@ -238,41 +256,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts32526",
-   "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -290,22 +273,21 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts4618",
+   "id": "ts22171",
    "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "rma"
    ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts22228",
@@ -326,6 +308,24 @@
    "tillagd": "2024-08-14"
   },
   {
+   "id": "ts4618",
+   "typ": "serie",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
    "id": "ts305546",
    "typ": "serie",
    "titel": "Signora Volpe",
@@ -342,23 +342,6 @@
    "imdb": 7.2,
    "sasonger": 3,
    "tillagd": "2026-10-27"
-  },
-  {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
   },
   {
    "id": "ts11564",
@@ -397,6 +380,23 @@
    "imdb": 5.8,
    "sasonger": 1,
    "tillagd": "2024-11-01"
+  },
+  {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm"
+   ],
+   "imdb": 7,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
   },
   {
    "id": "ts39247",
@@ -538,6 +538,23 @@
    "tillagd": "2025-02-19"
   },
   {
+   "id": "ts472788",
+   "typ": "serie",
+   "titel": "Frauds",
+   "originaltitel": "Frauds",
+   "ar": 2025,
+   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
+   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
+   "genrer": [
+    "crm",
+    "trl"
+   ],
+   "imdb": 5.7,
+   "sasonger": 1,
+   "tillagd": "2026-02-16"
+  },
+  {
    "id": "ts20528",
    "typ": "serie",
    "titel": "Ett fall för Vera",
@@ -626,6 +643,43 @@
    "tillagd": "2025-08-28"
   },
   {
+   "id": "ts446708",
+   "typ": "serie",
+   "titel": "Coldwater",
+   "originaltitel": "Coldwater",
+   "ar": 2025,
+   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
+   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.2,
+   "sasonger": 1,
+   "tillagd": "2026-05-07"
+  },
+  {
+   "id": "ts311095",
+   "typ": "serie",
+   "titel": "Sister Boniface Mysteries",
+   "originaltitel": "Sister Boniface Mysteries",
+   "ar": 2022,
+   "beskrivning": "Nunnan syster Boniface hjälper traktens polis att lösa mordfall i denna underhållande deckarserie som utspelar sig i 1960-talets Storbritannien.",
+   "bild": "https://images.justwatch.com/poster/315814402/s166/sister-boniface-mysteries.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/sister-boniface-mysteries",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 4,
+   "tillagd": "2026-11-05"
+  },
+  {
    "id": "ts321801",
    "typ": "serie",
    "titel": "Sherwood",
@@ -661,43 +715,6 @@
    "tillagd": "2026-02-23"
   },
   {
-   "id": "ts311095",
-   "typ": "serie",
-   "titel": "Sister Boniface Mysteries",
-   "originaltitel": "Sister Boniface Mysteries",
-   "ar": 2022,
-   "beskrivning": "Nunnan syster Boniface hjälper traktens polis att lösa mordfall i denna underhållande deckarserie som utspelar sig i 1960-talets Storbritannien.",
-   "bild": "https://images.justwatch.com/poster/315814402/s166/sister-boniface-mysteries.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/sister-boniface-mysteries",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 4,
-   "tillagd": "2026-11-05"
-  },
-  {
-   "id": "ts446708",
-   "typ": "serie",
-   "titel": "Coldwater",
-   "originaltitel": "Coldwater",
-   "ar": 2025,
-   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
-   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.2,
-   "sasonger": 1,
-   "tillagd": "2026-05-07"
-  },
-  {
    "id": "ts439006",
    "typ": "serie",
    "titel": "Reunion",
@@ -714,23 +731,6 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-10-13"
-  },
-  {
-   "id": "ts472788",
-   "typ": "serie",
-   "titel": "Frauds",
-   "originaltitel": "Frauds",
-   "ar": 2025,
-   "beskrivning": "Brittiskt kriminaldrama där två gamla vänner och svindlarpartners återförenas och planerar en sista stöt på den spanska sydkusten.",
-   "bild": "https://images.justwatch.com/poster/337883521/s166/frauds.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/frauds",
-   "genrer": [
-    "crm",
-    "trl"
-   ],
-   "imdb": 5.7,
-   "sasonger": 1,
-   "tillagd": "2026-02-16"
   },
   {
    "id": "tm224629",
@@ -923,24 +923,6 @@
    "imdb": 7.6,
    "sasonger": 1,
    "tillagd": "2025-08-20"
-  },
-  {
-   "id": "tm57819",
-   "typ": "film",
-   "titel": "Jane Austens ånger",
-   "originaltitel": "Miss Austen Regrets",
-   "ar": 2008,
-   "beskrivning": "Jane Austen är lyckligt ogift men när hennes brorsdotter Fanny ber om romantiska råd om börjar hon titta tillbaka på de val hon gjort i livet.",
-   "bild": "https://images.justwatch.com/poster/53598574/s166/miss-austen-regrets.webp",
-   "lank": "https://www.justwatch.com/se/film/miss-austen-regrets",
-   "genrer": [
-    "drm",
-    "hst",
-    "rma"
-   ],
-   "imdb": 7,
-   "sasonger": null,
-   "tillagd": "2025-11-27"
   },
   {
    "id": "ts328236",

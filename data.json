@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-13T12:20Z",
+ "uppdaterad": "2026-11-14T11:36Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -53,7 +53,7 @@
     "trl",
     "rma"
    ],
-   "imdb": 6.4,
+   "imdb": 6.3,
    "sasonger": 1,
    "tillagd": "2026-09-29"
   },
@@ -76,25 +76,6 @@
    "tillagd": "2026-09-15"
   },
   {
-   "id": "ts21447",
-   "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2024-01-17"
-  },
-  {
    "id": "ts27630",
    "typ": "serie",
    "titel": "Line of Duty",
@@ -112,6 +93,25 @@
    "imdb": 8.7,
    "sasonger": 6,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts21447",
+   "typ": "serie",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts414531",
@@ -148,23 +148,6 @@
    "tillagd": "2026-11-09"
   },
   {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
-  },
-  {
    "id": "ts32526",
    "typ": "serie",
    "titel": "Shetland",
@@ -181,6 +164,23 @@
    "imdb": 8.3,
    "sasonger": 11,
    "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts8175",
+   "typ": "serie",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
+   "genrer": [
+    "drm",
+    "hst"
+   ],
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
   },
   {
    "id": "ts21621",
@@ -201,21 +201,20 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts20116",
+   "id": "ts10018",
    "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "eur"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
+   "imdb": 8,
+   "sasonger": 4,
    "tillagd": "2024-01-11"
   },
   {
@@ -238,20 +237,21 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts10018",
+   "id": "ts20116",
    "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
    "genrer": [
-    "cmy",
-    "eur"
+    "crm",
+    "drm",
+    "trl"
    ],
-   "imdb": 8,
-   "sasonger": 4,
+   "imdb": 8.5,
+   "sasonger": 3,
    "tillagd": "2024-01-11"
   },
   {
@@ -288,24 +288,6 @@
    "imdb": 8.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts439006",
-   "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
-   "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-10-13"
   },
   {
    "id": "ts22228",
@@ -360,6 +342,42 @@
    "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
+  },
+  {
+   "id": "ts2287",
+   "typ": "serie",
+   "titel": "Poirot",
+   "originaltitel": "Poirot",
+   "ar": 1989,
+   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
+   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.6,
+   "sasonger": 13,
+   "tillagd": "2022-05-24"
+  },
+  {
+   "id": "ts439006",
+   "typ": "serie",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
+   "ar": 2025,
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts305546",
@@ -418,23 +436,6 @@
    "tillagd": "2024-11-01"
   },
   {
-   "id": "ts357650",
-   "typ": "serie",
-   "titel": "Bortom paradiset",
-   "originaltitel": "Beyond Paradise",
-   "ar": 2023,
-   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
-   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 4,
-   "tillagd": "2026-05-20"
-  },
-  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -451,6 +452,23 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-09-25"
+  },
+  {
+   "id": "ts357650",
+   "typ": "serie",
+   "titel": "Bortom paradiset",
+   "originaltitel": "Beyond Paradise",
+   "ar": 2023,
+   "beskrivning": "Martha och Humphrey flyttar till Marthas hemort, pittoreska Shipton Abbott vid den engelska kusten. Staden visar sig ha hög brottslighet och åter igen får de tampas med illgärningar, den här gången på hemmaplan.\n\nSpin-off på Mord i paradiset.",
+   "bild": "https://images.justwatch.com/poster/331479694/s166/beyond-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/beyond-paradise",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 4,
+   "tillagd": "2026-05-20"
   },
   {
    "id": "ts36929",
@@ -488,23 +506,6 @@
    "tillagd": "2026-08-12"
   },
   {
-   "id": "ts21686",
-   "typ": "serie",
-   "titel": "Ett herrans liv",
-   "originaltitel": "The Vicar of Dibley",
-   "ar": 1994,
-   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
-   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 5,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts311095",
    "typ": "serie",
    "titel": "Sister Boniface Mysteries",
@@ -524,22 +525,21 @@
    "tillagd": "2026-11-05"
   },
   {
-   "id": "ts2287",
+   "id": "ts21686",
    "typ": "serie",
-   "titel": "Poirot",
-   "originaltitel": "Poirot",
-   "ar": 1989,
-   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
-   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
+   "titel": "Ett herrans liv",
+   "originaltitel": "The Vicar of Dibley",
+   "ar": 1994,
+   "beskrivning": "Kyrkoherden i den lilla byn Dibley har gått bort och en ny har sökts. Här kommer Geraldine Granger in; en otraditionell, chokladälskande, rock n' roll-spelande kyrkoherde. Men det som verkligen upprör byborna är att hon är kvinna. Men det hindrar inte Geraldine från att bevisa sin värdighet och efter en tid accepterar byborna (med ett inflytelserikt undantag) henne som kyrkoherde i Dibley.",
+   "bild": "https://images.justwatch.com/poster/292544764/s166/the-vicar-of-dibley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-vicar-of-dibley",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "eur"
    ],
-   "imdb": 8.6,
-   "sasonger": 13,
-   "tillagd": "2022-05-24"
+   "imdb": 8,
+   "sasonger": 5,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts5804",
@@ -612,22 +612,6 @@
    "tillagd": "2026-02-16"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -644,6 +628,22 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-08-21"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts21839",
@@ -716,22 +716,6 @@
    "tillagd": "2026-02-23"
   },
   {
-   "id": "ts65296",
-   "typ": "serie",
-   "titel": "The Inheritance",
-   "originaltitel": "The Inheritance",
-   "ar": 2023,
-   "beskrivning": "Tre syskon börjar nysta i sin fars oväntade död när de får reda på att de blivit arvlösa, och att allt kommer att gå till hans nya okända fru.",
-   "bild": "https://images.justwatch.com/poster/308543655/s166/the-inheritance.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-inheritance",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2025-11-29"
-  },
-  {
    "id": "ts446708",
    "typ": "serie",
    "titel": "Coldwater",
@@ -766,6 +750,24 @@
    "imdb": 7.6,
    "sasonger": null,
    "tillagd": "2000-07-14"
+  },
+  {
+   "id": "ts87069",
+   "typ": "serie",
+   "titel": "London Kills",
+   "originaltitel": "London Kills",
+   "ar": 2019,
+   "beskrivning": "Brutala mord, försvunna personer, nattsvarta motiv, allt är vardagsmat för Storbritanniens tuffaste elitstyrka av kriminalpoliser.",
+   "bild": "https://images.justwatch.com/poster/340644663/s166/london-kills.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/london-kills",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 4,
+   "tillagd": "2025-01-22"
   },
   {
    "id": "tm60828",
@@ -838,22 +840,20 @@
    "tillagd": "2022-08-23"
   },
   {
-   "id": "ts87069",
+   "id": "ts65296",
    "typ": "serie",
-   "titel": "London Kills",
-   "originaltitel": "London Kills",
-   "ar": 2019,
-   "beskrivning": "Brutala mord, försvunna personer, nattsvarta motiv, allt är vardagsmat för Storbritanniens tuffaste elitstyrka av kriminalpoliser.",
-   "bild": "https://images.justwatch.com/poster/340644663/s166/london-kills.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/london-kills",
+   "titel": "The Inheritance",
+   "originaltitel": "The Inheritance",
+   "ar": 2023,
+   "beskrivning": "Tre syskon börjar nysta i sin fars oväntade död när de får reda på att de blivit arvlösa, och att allt kommer att gå till hans nya okända fru.",
+   "bild": "https://images.justwatch.com/poster/308543655/s166/the-inheritance.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-inheritance",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 6.8,
-   "sasonger": 4,
-   "tillagd": "2025-01-22"
+   "imdb": 6.1,
+   "sasonger": 1,
+   "tillagd": "2025-11-29"
   },
   {
    "id": "ts291563",

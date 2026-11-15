@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-14T11:36Z",
+ "uppdaterad": "2026-11-15T12:01Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -53,7 +53,7 @@
     "trl",
     "rma"
    ],
-   "imdb": 6.3,
+   "imdb": 6.4,
    "sasonger": 1,
    "tillagd": "2026-09-29"
   },
@@ -148,6 +148,24 @@
    "tillagd": "2026-11-09"
   },
   {
+   "id": "ts450529",
+   "typ": "serie",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
+  },
+  {
    "id": "ts32526",
    "typ": "serie",
    "titel": "Shetland",
@@ -183,6 +201,23 @@
    "tillagd": "2026-01-20"
   },
   {
+   "id": "ts10018",
+   "typ": "serie",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -198,23 +233,6 @@
    ],
    "imdb": 8.5,
    "sasonger": 3,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
    "tillagd": "2024-01-11"
   },
   {
@@ -237,6 +255,23 @@
    "tillagd": "2026-09-29"
   },
   {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts20116",
    "typ": "serie",
    "titel": "Happy Valley",
@@ -255,39 +290,22 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts450529",
+   "id": "ts439006",
    "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
    "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 6.8,
+   "imdb": 7.1,
    "sasonger": 1,
-   "tillagd": "2026-10-06"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts22228",
@@ -342,42 +360,6 @@
    "imdb": 7,
    "sasonger": 2,
    "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts2287",
-   "typ": "serie",
-   "titel": "Poirot",
-   "originaltitel": "Poirot",
-   "ar": 1989,
-   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
-   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 8.6,
-   "sasonger": 13,
-   "tillagd": "2022-05-24"
-  },
-  {
-   "id": "ts439006",
-   "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
-   "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-10-13"
   },
   {
    "id": "ts305546",
@@ -436,6 +418,24 @@
    "tillagd": "2024-11-01"
   },
   {
+   "id": "ts2287",
+   "typ": "serie",
+   "titel": "Poirot",
+   "originaltitel": "Poirot",
+   "ar": 1989,
+   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
+   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.6,
+   "sasonger": 13,
+   "tillagd": "2022-05-24"
+  },
+  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -471,6 +471,23 @@
    "tillagd": "2026-05-20"
   },
   {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
    "id": "ts36929",
    "typ": "serie",
    "titel": "Saknad, aldrig glömd",
@@ -487,23 +504,6 @@
    "imdb": 8.4,
    "sasonger": 6,
    "tillagd": "2026-05-06"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
   },
   {
    "id": "ts311095",
@@ -612,6 +612,22 @@
    "tillagd": "2026-02-16"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -628,22 +644,6 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-08-21"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts21839",
@@ -856,6 +856,23 @@
    "tillagd": "2025-11-29"
   },
   {
+   "id": "ts188369",
+   "typ": "serie",
+   "titel": "The Confessions of Frannie Langton",
+   "originaltitel": "The Confessions of Frannie Langton",
+   "ar": 2022,
+   "beskrivning": "Denna stämningsfulla berättelse om mod och förbjuden kärlek utspelar sig i ett georgianskt London och följer en kvinnas kamp för att berätta sin egen historia när hon anklagas för mord.",
+   "bild": "https://images.justwatch.com/poster/346663151/s166/the-confessions-of-frannie-langton.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-confessions-of-frannie-langton",
+   "genrer": [
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.1,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts291563",
    "typ": "serie",
    "titel": "Hope Street",
@@ -942,23 +959,6 @@
    "imdb": 5.8,
    "sasonger": 1,
    "tillagd": "2022-11-23"
-  },
-  {
-   "id": "ts188369",
-   "typ": "serie",
-   "titel": "The Confessions of Frannie Langton",
-   "originaltitel": "The Confessions of Frannie Langton",
-   "ar": 2022,
-   "beskrivning": "Denna stämningsfulla berättelse om mod och förbjuden kärlek utspelar sig i ett georgianskt London och följer en kvinnas kamp för att berätta sin egen historia när hon anklagas för mord.",
-   "bild": "https://images.justwatch.com/poster/346663151/s166/the-confessions-of-frannie-langton.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-confessions-of-frannie-langton",
-   "genrer": [
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts261152",

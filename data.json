@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-15T12:01Z",
+ "uppdaterad": "2026-11-16T12:53Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -114,23 +114,6 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts414531",
-   "typ": "serie",
-   "titel": "After the Flood",
-   "originaltitel": "After the Flood",
-   "ar": 2024,
-   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
-   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
-   "genrer": [
-    "crm",
-    "trl"
-   ],
-   "imdb": 6.6,
-   "sasonger": 2,
-   "tillagd": "2026-08-25"
-  },
-  {
    "id": "ts18844",
    "typ": "serie",
    "titel": "Pang i bygget",
@@ -148,22 +131,21 @@
    "tillagd": "2026-11-09"
   },
   {
-   "id": "ts450529",
+   "id": "ts414531",
    "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "titel": "After the Flood",
+   "originaltitel": "After the Flood",
+   "ar": 2024,
+   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
+   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
     "crm",
-    "drm",
     "trl"
    ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
+   "imdb": 6.6,
+   "sasonger": 2,
+   "tillagd": "2026-08-25"
   },
   {
    "id": "ts32526",
@@ -201,6 +183,24 @@
    "tillagd": "2026-01-20"
   },
   {
+   "id": "ts450529",
+   "typ": "serie",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
+  },
+  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -236,6 +236,23 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts258950",
    "typ": "serie",
    "titel": "Dödligt kapitel",
@@ -253,23 +270,6 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts20116",
@@ -303,28 +303,9 @@
     "drm",
     "trl"
    ],
-   "imdb": 7.1,
+   "imdb": 7,
    "sasonger": 1,
    "tillagd": "2026-10-13"
-  },
-  {
-   "id": "ts22228",
-   "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
   },
   {
    "id": "ts4618",
@@ -343,6 +324,25 @@
    "imdb": 7.8,
    "sasonger": 13,
    "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts440132",
@@ -380,23 +380,40 @@
    "tillagd": "2026-10-27"
   },
   {
-   "id": "ts11564",
+   "id": "ts22228",
    "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
    "genrer": [
-    "cmy",
     "crm",
     "drm",
-    "trl"
+    "trl",
+    "eur"
    ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
+  },
+  {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
   },
   {
    "id": "ts345331",
@@ -469,23 +486,6 @@
    "imdb": 7.4,
    "sasonger": 4,
    "tillagd": "2026-05-20"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
   },
   {
    "id": "ts36929",
@@ -612,22 +612,6 @@
    "tillagd": "2026-02-16"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -644,6 +628,22 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-08-21"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts21839",
@@ -752,24 +752,6 @@
    "tillagd": "2000-07-14"
   },
   {
-   "id": "ts87069",
-   "typ": "serie",
-   "titel": "London Kills",
-   "originaltitel": "London Kills",
-   "ar": 2019,
-   "beskrivning": "Brutala mord, försvunna personer, nattsvarta motiv, allt är vardagsmat för Storbritanniens tuffaste elitstyrka av kriminalpoliser.",
-   "bild": "https://images.justwatch.com/poster/340644663/s166/london-kills.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/london-kills",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.8,
-   "sasonger": 4,
-   "tillagd": "2025-01-22"
-  },
-  {
    "id": "tm60828",
    "typ": "film",
    "titel": "The Best of Men",
@@ -786,6 +768,24 @@
    "imdb": 7.9,
    "sasonger": null,
    "tillagd": "2000-07-14"
+  },
+  {
+   "id": "ts87069",
+   "typ": "serie",
+   "titel": "London Kills",
+   "originaltitel": "London Kills",
+   "ar": 2019,
+   "beskrivning": "Brutala mord, försvunna personer, nattsvarta motiv, allt är vardagsmat för Storbritanniens tuffaste elitstyrka av kriminalpoliser.",
+   "bild": "https://images.justwatch.com/poster/340644663/s166/london-kills.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/london-kills",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 4,
+   "tillagd": "2025-01-22"
   },
   {
    "id": "tm222940",
@@ -856,23 +856,6 @@
    "tillagd": "2025-11-29"
   },
   {
-   "id": "ts188369",
-   "typ": "serie",
-   "titel": "The Confessions of Frannie Langton",
-   "originaltitel": "The Confessions of Frannie Langton",
-   "ar": 2022,
-   "beskrivning": "Denna stämningsfulla berättelse om mod och förbjuden kärlek utspelar sig i ett georgianskt London och följer en kvinnas kamp för att berätta sin egen historia när hon anklagas för mord.",
-   "bild": "https://images.justwatch.com/poster/346663151/s166/the-confessions-of-frannie-langton.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-confessions-of-frannie-langton",
-   "genrer": [
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.1,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts291563",
    "typ": "serie",
    "titel": "Hope Street",
@@ -907,6 +890,23 @@
    "imdb": 7.3,
    "sasonger": null,
    "tillagd": "2025-12-19"
+  },
+  {
+   "id": "ts188369",
+   "typ": "serie",
+   "titel": "The Confessions of Frannie Langton",
+   "originaltitel": "The Confessions of Frannie Langton",
+   "ar": 2022,
+   "beskrivning": "Denna stämningsfulla berättelse om mod och förbjuden kärlek utspelar sig i ett georgianskt London och följer en kvinnas kamp för att berätta sin egen historia när hon anklagas för mord.",
+   "bild": "https://images.justwatch.com/poster/346663151/s166/the-confessions-of-frannie-langton.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-confessions-of-frannie-langton",
+   "genrer": [
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.1,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts379480",

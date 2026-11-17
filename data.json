@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-16T12:53Z",
+ "uppdaterad": "2026-11-17T13:36Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -39,6 +39,24 @@
    "tillagd": "2025-11-19"
   },
   {
+   "id": "ts67396",
+   "typ": "serie",
+   "titel": "Ghosts",
+   "originaltitel": "Ghosts",
+   "ar": 2019,
+   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
+   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "genrer": [
+    "cmy",
+    "fnt",
+    "scf"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2026-09-15"
+  },
+  {
    "id": "ts526671",
    "typ": "serie",
    "titel": "Agatha Christie's Tommy & Tuppence",
@@ -58,22 +76,23 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts67396",
+   "id": "ts21447",
    "typ": "serie",
-   "titel": "Ghosts",
-   "originaltitel": "Ghosts",
-   "ar": 2019,
-   "beskrivning": "Alison och Mike tror inte sina öron när de får reda på att de fått ärva en vacker gammal herrgård på engelska landsbygden. Vad paret inte vet är att huset redan är bebott av ett gäng spöken som inte verkar speciellt förtjusta i nykomlingarna.",
-   "bild": "https://images.justwatch.com/poster/249686524/s166/ghosts.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/ghosts",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
    "genrer": [
-    "cmy",
-    "fnt",
-    "scf"
+    "crm",
+    "drm",
+    "trl",
+    "eur"
    ],
    "imdb": 8.4,
    "sasonger": 5,
-   "tillagd": "2026-09-15"
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts27630",
@@ -93,25 +112,6 @@
    "imdb": 8.7,
    "sasonger": 6,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts21447",
-   "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2024-01-17"
   },
   {
    "id": "ts18844",
@@ -146,6 +146,24 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
+  },
+  {
+   "id": "ts450529",
+   "typ": "serie",
+   "titel": "Art Detectives",
+   "originaltitel": "Art Detectives",
+   "ar": 2025,
+   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
+   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.8,
+   "sasonger": 1,
+   "tillagd": "2026-10-06"
   },
   {
    "id": "ts32526",
@@ -183,24 +201,6 @@
    "tillagd": "2026-01-20"
   },
   {
-   "id": "ts450529",
-   "typ": "serie",
-   "titel": "Art Detectives",
-   "originaltitel": "Art Detectives",
-   "ar": 2025,
-   "beskrivning": "Fängslande kriminalserie med True Blood-stjärnan Stephen Moyer, om en engagerad polisduo som utreder mord och stölder i den brittiska konstvärlden.",
-   "bild": "https://images.justwatch.com/poster/332916102/s166/art-detectives.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/art-detectives",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.8,
-   "sasonger": 1,
-   "tillagd": "2026-10-06"
-  },
-  {
    "id": "ts10018",
    "typ": "serie",
    "titel": "Svarte Orm",
@@ -216,6 +216,24 @@
    "imdb": 8,
    "sasonger": 4,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts439006",
+   "typ": "serie",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
+   "ar": 2025,
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts21621",
@@ -236,20 +254,21 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts22171",
+   "id": "ts20116",
    "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "titel": "Happy Valley",
+   "originaltitel": "Happy Valley",
+   "ar": 2014,
+   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
+   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
    "genrer": [
+    "crm",
     "drm",
-    "rma"
+    "trl"
    ],
-   "imdb": 8.8,
-   "sasonger": 1,
+   "imdb": 8.5,
+   "sasonger": 3,
    "tillagd": "2024-01-11"
   },
   {
@@ -272,40 +291,38 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts20116",
+   "id": "ts22171",
    "typ": "serie",
-   "titel": "Happy Valley",
-   "originaltitel": "Happy Valley",
-   "ar": 2014,
-   "beskrivning": "Hyllad serie om polisinspektör Catherine Cawood som löser brott i en småstad i Yorkshire samtidigt som hon kämpar med sitt knepiga privatliv.",
-   "bild": "https://images.justwatch.com/poster/175650907/s166/happy-valley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/happy-valley",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "rma"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
+   "imdb": 8.8,
+   "sasonger": 1,
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts439006",
+   "id": "ts440132",
    "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
    "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "drm"
    ],
    "imdb": 7,
-   "sasonger": 1,
-   "tillagd": "2026-10-13"
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
   },
   {
    "id": "ts4618",
@@ -335,7 +352,6 @@
    "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
    "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
-    "cmy",
     "crm",
     "drm",
     "trl"
@@ -343,41 +359,6 @@
    "imdb": 7.8,
    "sasonger": 15,
    "tillagd": "2026-04-15"
-  },
-  {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
-  },
-  {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
   },
   {
    "id": "ts22228",
@@ -397,6 +378,24 @@
    "imdb": 7.9,
    "sasonger": 26,
    "tillagd": "2024-08-14"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts286379",
@@ -612,6 +611,22 @@
    "tillagd": "2026-02-16"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -628,22 +643,6 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-08-21"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
   },
   {
    "id": "ts21839",
@@ -981,7 +980,7 @@
    "id": "ts362915",
    "typ": "serie",
    "titel": "Archie",
-   "originaltitel": "Archie: The Man Who Became Cary Grant",
+   "originaltitel": "Archie",
    "ar": 2023,
    "beskrivning": "Jason Isaacs (från Harry Potter-filmerna) spelar Archie Leach, mannen som skulle komma att bli Cary Grant, en av Hollywoods största stjärnor.",
    "bild": "https://images.justwatch.com/poster/310143112/s166/archie-the-man-who-became-cary-grant.webp",

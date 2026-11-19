@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-18T13:10Z",
+ "uppdaterad": "2026-11-19T13:27Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -13,7 +13,8 @@
    "genrer": [
     "cmy",
     "crm",
-    "drm"
+    "drm",
+    "trl"
    ],
    "imdb": 8.1,
    "sasonger": 2,
@@ -131,6 +132,23 @@
    "tillagd": "2026-06-17"
   },
   {
+   "id": "ts18844",
+   "typ": "serie",
+   "titel": "Pang i bygget",
+   "originaltitel": "Fawlty Towers",
+   "ar": 1975,
+   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
+   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.8,
+   "sasonger": 2,
+   "tillagd": "2026-11-09"
+  },
+  {
    "id": "ts450529",
    "typ": "serie",
    "titel": "Art Detectives",
@@ -149,21 +167,39 @@
    "tillagd": "2026-10-06"
   },
   {
-   "id": "ts18844",
+   "id": "ts10018",
    "typ": "serie",
-   "titel": "Pang i bygget",
-   "originaltitel": "Fawlty Towers",
-   "ar": 1975,
-   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
-   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
    "genrer": [
     "cmy",
     "eur"
    ],
-   "imdb": 8.8,
-   "sasonger": 2,
-   "tillagd": "2026-11-09"
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts439006",
+   "typ": "serie",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
+   "ar": 2025,
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts414531",
@@ -200,38 +236,20 @@
    "tillagd": "2026-01-20"
   },
   {
-   "id": "ts439006",
+   "id": "ts22171",
    "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
-   "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "rma"
    ],
-   "imdb": 7,
+   "imdb": 8.8,
    "sasonger": 1,
-   "tillagd": "2026-10-13"
-  },
-  {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
    "tillagd": "2024-01-11"
   },
   {
@@ -253,23 +271,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts20116",
    "typ": "serie",
    "titel": "Happy Valley",
@@ -286,6 +287,24 @@
    "imdb": 8.5,
    "sasonger": 3,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
   },
   {
    "id": "ts258950",
@@ -307,39 +326,22 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts4618",
+   "id": "ts305546",
    "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
-  },
-  {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts22228",
@@ -361,22 +363,58 @@
    "tillagd": "2024-08-14"
   },
   {
-   "id": "ts305546",
+   "id": "ts4618",
    "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts36929",
+   "typ": "serie",
+   "titel": "Saknad, aldrig glömd",
+   "originaltitel": "Unforgotten",
+   "ar": 2015,
+   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
+   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 6,
+   "tillagd": "2026-05-06"
+  },
+  {
+   "id": "ts11564",
+   "typ": "serie",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts286379",
@@ -413,23 +451,6 @@
    "imdb": 5.8,
    "sasonger": 1,
    "tillagd": "2024-11-01"
-  },
-  {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
   },
   {
    "id": "ts2287",
@@ -485,23 +506,20 @@
    "tillagd": "2026-05-20"
   },
   {
-   "id": "ts36929",
+   "id": "ts362915",
    "typ": "serie",
-   "titel": "Saknad, aldrig glömd",
-   "originaltitel": "Unforgotten",
-   "ar": 2015,
-   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
-   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
+   "titel": "Archie",
+   "originaltitel": "Archie: The Man Who Became Cary Grant",
+   "ar": 2023,
+   "beskrivning": "Jason Isaacs (från Harry Potter-filmerna) spelar Archie Leach, mannen som skulle komma att bli Cary Grant, en av Hollywoods största stjärnor.",
+   "bild": "https://images.justwatch.com/poster/310143112/s166/archie-the-man-who-became-cary-grant.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/archie-the-man-who-became-cary-grant",
    "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
+    "drm"
    ],
-   "imdb": 8.4,
-   "sasonger": 6,
-   "tillagd": "2026-05-06"
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts311095",
@@ -610,22 +628,23 @@
    "tillagd": "2026-02-16"
   },
   {
-   "id": "ts43416",
+   "id": "ts20228",
    "typ": "serie",
-   "titel": "Death in Holy Orders",
-   "originaltitel": "Death in Holy Orders",
-   "ar": 2003,
-   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
-   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
+   "titel": "Den skyldige",
+   "originaltitel": "The Guilty",
+   "ar": 2013,
+   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
+   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
    "genrer": [
+    "cmy",
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 7.1,
+   "imdb": 6.7,
    "sasonger": 1,
-   "tillagd": "2026-08-21"
+   "tillagd": "2026-11-05"
   },
   {
    "id": "ts351780",
@@ -642,6 +661,24 @@
    "imdb": null,
    "sasonger": 2,
    "tillagd": "2025-09-10"
+  },
+  {
+   "id": "ts43416",
+   "typ": "serie",
+   "titel": "Death in Holy Orders",
+   "originaltitel": "Death in Holy Orders",
+   "ar": 2003,
+   "beskrivning": "Brittisk deckare efter P.D. James roman där kommissarie Adam Dalgliesh utreder ett dödsfall på prästseminariet St. Anselm.",
+   "bild": "https://images.justwatch.com/poster/337795950/s166/death-in-holy-orders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-holy-orders",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-08-21"
   },
   {
    "id": "ts21839",
@@ -973,41 +1010,6 @@
    "imdb": 6.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts362915",
-   "typ": "serie",
-   "titel": "Archie",
-   "originaltitel": "Archie: The Man Who Became Cary Grant",
-   "ar": 2023,
-   "beskrivning": "Jason Isaacs (från Harry Potter-filmerna) spelar Archie Leach, mannen som skulle komma att bli Cary Grant, en av Hollywoods största stjärnor.",
-   "bild": "https://images.justwatch.com/poster/310143112/s166/archie-the-man-who-became-cary-grant.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/archie-the-man-who-became-cary-grant",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 7,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts20228",
-   "typ": "serie",
-   "titel": "Den skyldige",
-   "originaltitel": "The Guilty",
-   "ar": 2013,
-   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
-   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.7,
-   "sasonger": 1,
-   "tillagd": "2026-11-05"
   },
   {
    "id": "ts78418",

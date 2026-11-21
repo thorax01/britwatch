@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-20T13:07Z",
+ "uppdaterad": "2026-11-21T12:47Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -77,25 +77,6 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts21447",
-   "typ": "serie",
-   "titel": "Luther",
-   "originaltitel": "Luther",
-   "ar": 2010,
-   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
-   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/luther",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 5,
-   "tillagd": "2024-01-17"
-  },
-  {
    "id": "ts27630",
    "typ": "serie",
    "titel": "Line of Duty",
@@ -113,6 +94,25 @@
    "imdb": 8.7,
    "sasonger": 6,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts21447",
+   "typ": "serie",
+   "titel": "Luther",
+   "originaltitel": "Luther",
+   "ar": 2010,
+   "beskrivning": "Luther, en Londonpolis som jobbar på enheten för grova brott, har en begåvning för att se samband och en snillrik snabbtänkthet. Han ställs inför en rad psykologiska duster mellan förövare och offer. Men när insatserna blir allt högre och mer personliga, lockas ensamvargen Luther att gå över gränsen.",
+   "bild": "https://images.justwatch.com/poster/102366090/s166/luther.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/luther",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 5,
+   "tillagd": "2024-01-17"
   },
   {
    "id": "ts18844",
@@ -150,6 +150,23 @@
    "tillagd": "2026-06-17"
   },
   {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts450529",
    "typ": "serie",
    "titel": "Art Detectives",
@@ -168,21 +185,21 @@
    "tillagd": "2026-10-06"
   },
   {
-   "id": "ts22171",
+   "id": "ts8175",
    "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
    "genrer": [
     "drm",
-    "rma"
+    "hst"
    ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
   },
   {
    "id": "ts10018",
@@ -235,41 +252,6 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
-  },
-  {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
   },
   {
    "id": "ts20116",
@@ -325,6 +307,24 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
+  },
+  {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
   },
   {
    "id": "ts22228",
@@ -417,22 +417,6 @@
    "tillagd": "2026-08-12"
   },
   {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
-  },
-  {
    "id": "ts345331",
    "typ": "serie",
    "titel": "Passenger",
@@ -470,6 +454,24 @@
    "tillagd": "2026-07-31"
   },
   {
+   "id": "ts2287",
+   "typ": "serie",
+   "titel": "Poirot",
+   "originaltitel": "Poirot",
+   "ar": 1989,
+   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
+   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.6,
+   "sasonger": 13,
+   "tillagd": "2022-05-24"
+  },
+  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -488,22 +490,20 @@
    "tillagd": "2026-09-25"
   },
   {
-   "id": "ts2287",
+   "id": "ts351780",
    "typ": "serie",
-   "titel": "Poirot",
-   "originaltitel": "Poirot",
-   "ar": 1989,
-   "beskrivning": "Agatha Christies kända belgiska detektiv Hercule Poirot hamnar alltid i oförklarliga mysterier med sin vän kapten Hastings. Från England till medelhavet tar han upp kampen mot mördare, tjuvar och bedragare i en fängslande bana av olika brott.",
-   "bild": "https://images.justwatch.com/poster/304982853/s166/agatha-christies-poirot.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/agatha-christies-poirot",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "drm"
    ],
-   "imdb": 8.6,
-   "sasonger": 13,
-   "tillagd": "2022-05-24"
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts357650",
@@ -576,23 +576,6 @@
    "tillagd": "2025-02-19"
   },
   {
-   "id": "ts5804",
-   "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts20528",
    "typ": "serie",
    "titel": "Ett fall för Vera",
@@ -610,6 +593,41 @@
    "imdb": 8.2,
    "sasonger": 14,
    "tillagd": "2026-03-02"
+  },
+  {
+   "id": "ts5804",
+   "typ": "serie",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts446708",
+   "typ": "serie",
+   "titel": "Coldwater",
+   "originaltitel": "Coldwater",
+   "ar": 2025,
+   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
+   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.2,
+   "sasonger": 1,
+   "tillagd": "2026-05-07"
   },
   {
    "id": "ts472788",
@@ -749,24 +767,6 @@
    "imdb": 7,
    "sasonger": 1,
    "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts446708",
-   "typ": "serie",
-   "titel": "Coldwater",
-   "originaltitel": "Coldwater",
-   "ar": 2025,
-   "beskrivning": "John flyttar med sin familj till en pittoresk småstad i Skottland. Där blir han genast vän med sin nya granne, Tommy, som bär på mörka hemligheter.",
-   "bild": "https://images.justwatch.com/poster/335913496/s166/coldwater.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/coldwater",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.2,
-   "sasonger": 1,
-   "tillagd": "2026-05-07"
   },
   {
    "id": "tm224629",
@@ -1013,24 +1013,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts78418",
-   "typ": "serie",
-   "titel": "The Story of Only Fools and Horses",
-   "originaltitel": "The Story of Only Fools and Horses",
-   "ar": 2017,
-   "beskrivning": "In this definitive six-part UKTV Original, Gold explores every aspect of Britain's most loved sitcom, Only Fools and Horses. With exclusive access to the key cast members, including Sir David Jason and Nicholas Lyndhurst, the series gives rare insights into the show and what went on both on and off camera. The Story Of Only Fools and Horses reunites cast members, rebuilds some of the sets and features rare and previously unseen material.",
-   "bild": "https://images.justwatch.com/poster/203723488/s166/the-story-of-only-fools-and-horses.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-story-of-only-fools-and-horses",
-   "genrer": [
-    "cmy",
-    "doc",
-    "eur"
-   ],
-   "imdb": 8.3,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts277413",
    "typ": "serie",
    "titel": "Three Little Birds",
@@ -1061,6 +1043,24 @@
    "imdb": 8,
    "sasonger": 1,
    "tillagd": "2025-03-26"
+  },
+  {
+   "id": "ts78418",
+   "typ": "serie",
+   "titel": "The Story of Only Fools and Horses",
+   "originaltitel": "The Story of Only Fools and Horses",
+   "ar": 2017,
+   "beskrivning": "In this definitive six-part UKTV Original, Gold explores every aspect of Britain's most loved sitcom, Only Fools and Horses. With exclusive access to the key cast members, including Sir David Jason and Nicholas Lyndhurst, the series gives rare insights into the show and what went on both on and off camera. The Story Of Only Fools and Horses reunites cast members, rebuilds some of the sets and features rare and previously unseen material.",
+   "bild": "https://images.justwatch.com/poster/203723488/s166/the-story-of-only-fools-and-horses.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-story-of-only-fools-and-horses",
+   "genrer": [
+    "cmy",
+    "doc",
+    "eur"
+   ],
+   "imdb": 8.3,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts360841",

@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-22T12:40Z",
+ "uppdaterad": "2026-11-23T14:53Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -113,6 +113,24 @@
    "tillagd": "2026-11-09"
   },
   {
+   "id": "ts32526",
+   "typ": "serie",
+   "titel": "Shetland",
+   "originaltitel": "Shetland",
+   "ar": 2013,
+   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
+   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 8.3,
+   "sasonger": 11,
+   "tillagd": "2026-06-17"
+  },
+  {
    "id": "ts21447",
    "typ": "serie",
    "titel": "Luther",
@@ -132,22 +150,22 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts32526",
+   "id": "ts439006",
    "typ": "serie",
-   "titel": "Shetland",
-   "originaltitel": "Shetland",
-   "ar": 2013,
-   "beskrivning": "Kriminalkommissarie Jimmy Perez löser mordgåtor på öarna som ligger på gränsen mellan Nordsjön och Atlanten.",
-   "bild": "https://images.justwatch.com/poster/255377932/s166/shetland.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/shetland",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
+   "ar": 2025,
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
    "genrer": [
     "crm",
     "drm",
     "trl"
    ],
-   "imdb": 8.3,
-   "sasonger": 11,
-   "tillagd": "2026-06-17"
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts22171",
@@ -181,25 +199,8 @@
     "trl"
    ],
    "imdb": 6.8,
-   "sasonger": 1,
+   "sasonger": 2,
    "tillagd": "2026-10-06"
-  },
-  {
-   "id": "ts8175",
-   "typ": "serie",
-   "titel": "Barnmorskan i East End",
-   "originaltitel": "Call the Midwife",
-   "ar": 2012,
-   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
-   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
-   "genrer": [
-    "drm",
-    "hst"
-   ],
-   "imdb": 8.6,
-   "sasonger": 15,
-   "tillagd": "2026-01-20"
   },
   {
    "id": "ts10018",
@@ -219,40 +220,21 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts439006",
+   "id": "ts8175",
    "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
-   "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "titel": "Barnmorskan i East End",
+   "originaltitel": "Call the Midwife",
+   "ar": 2012,
+   "beskrivning": "Drama som följer livet för en grupp barnmorskor som arbetade i det fattiga East End i London under 1950-talet. Serien baseras på Jennifer Worths bästsäljande memoarer.",
+   "bild": "https://images.justwatch.com/poster/294800184/s166/call-the-midwife.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/call-the-midwife",
    "genrer": [
-    "crm",
     "drm",
-    "trl"
+    "hst"
    ],
-   "imdb": 7,
-   "sasonger": 1,
-   "tillagd": "2026-10-13"
-  },
-  {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
+   "imdb": 8.6,
+   "sasonger": 15,
+   "tillagd": "2026-01-20"
   },
   {
    "id": "ts20116",
@@ -290,6 +272,24 @@
    "tillagd": "2026-08-25"
   },
   {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
+  },
+  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -325,6 +325,23 @@
    "imdb": 7.5,
    "sasonger": 3,
    "tillagd": "2026-09-29"
+  },
+  {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
   },
   {
    "id": "ts22228",
@@ -400,23 +417,6 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
-  },
-  {
    "id": "ts345331",
    "typ": "serie",
    "titel": "Passenger",
@@ -454,6 +454,24 @@
    "tillagd": "2026-07-31"
   },
   {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
+  },
+  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -472,22 +490,21 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts39247",
+   "id": "ts21839",
    "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "eur"
    ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-09-25"
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
   },
   {
    "id": "ts351780",
@@ -559,23 +576,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts261229",
-   "typ": "serie",
-   "titel": "The Cleaner",
-   "originaltitel": "The Cleaner",
-   "ar": 2021,
-   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
-   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
-   "genrer": [
-    "cmy",
-    "crm"
-   ],
-   "imdb": 7.1,
-   "sasonger": 3,
-   "tillagd": "2025-02-19"
-  },
-  {
    "id": "ts20528",
    "typ": "serie",
    "titel": "Ett fall för Vera",
@@ -595,6 +595,23 @@
    "tillagd": "2026-03-02"
   },
   {
+   "id": "ts261229",
+   "typ": "serie",
+   "titel": "The Cleaner",
+   "originaltitel": "The Cleaner",
+   "ar": 2021,
+   "beskrivning": "Det är polisens uppgift att städa rent i staden och Wickys jobb att städa brottsplatserna. Längs resan möter han en mängd ovanliga typer.",
+   "bild": "https://images.justwatch.com/poster/251239339/s166/the-cleaner-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-cleaner-2021",
+   "genrer": [
+    "cmy",
+    "crm"
+   ],
+   "imdb": 7.1,
+   "sasonger": 3,
+   "tillagd": "2025-02-19"
+  },
+  {
    "id": "ts5804",
    "typ": "serie",
    "titel": "Helt hysteriskt",
@@ -612,6 +629,22 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 6.5,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
+  },
+  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -622,6 +655,7 @@
    "lank": "https://www.justwatch.com/se/tv-serie/frauds",
    "genrer": [
     "crm",
+    "drm",
     "trl"
    ],
    "imdb": 5.7,
@@ -647,21 +681,22 @@
    "tillagd": "2026-08-21"
   },
   {
-   "id": "ts21839",
+   "id": "ts441490",
    "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "titel": "Lynley",
+   "originaltitel": "Lynley",
+   "ar": 2025,
+   "beskrivning": "Kommissarie Thomas Lynley och kriminalinspektör Barbara Havers har inte mycket gemensamt. Han är Oxfordutbildad adelsman, hon är opolerad arbetarklass. Men båda kämpar för rättvisa och tillsammans bildar det omaka paret ett framgångsrikt team. Ny serieversion av Elizabeth Georges bästsäljande deckare.",
+   "bild": "https://images.justwatch.com/poster/334302016/s166/lynley.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/lynley",
    "genrer": [
-    "cmy",
-    "eur"
+    "crm",
+    "drm",
+    "trl"
    ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2025-08-28"
   },
   {
    "id": "ts446708",
@@ -680,24 +715,6 @@
    "imdb": 6.2,
    "sasonger": 1,
    "tillagd": "2026-05-07"
-  },
-  {
-   "id": "ts441490",
-   "typ": "serie",
-   "titel": "Lynley",
-   "originaltitel": "Lynley",
-   "ar": 2025,
-   "beskrivning": "Kommissarie Thomas Lynley och kriminalinspektör Barbara Havers har inte mycket gemensamt. Han är Oxfordutbildad adelsman, hon är opolerad arbetarklass. Men båda kämpar för rättvisa och tillsammans bildar det omaka paret ett framgångsrikt team. Ny serieversion av Elizabeth Georges bästsäljande deckare.",
-   "bild": "https://images.justwatch.com/poster/334302016/s166/lynley.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/lynley",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7,
-   "sasonger": 1,
-   "tillagd": "2025-08-28"
   },
   {
    "id": "ts20228",
@@ -735,22 +752,6 @@
    "imdb": 7.4,
    "sasonger": 3,
    "tillagd": "2025-04-15"
-  },
-  {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 6.5,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
   },
   {
    "id": "ts362915",

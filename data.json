@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-23T14:53Z",
+ "uppdaterad": "2026-11-24T14:57Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -96,23 +96,6 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts18844",
-   "typ": "serie",
-   "titel": "Pang i bygget",
-   "originaltitel": "Fawlty Towers",
-   "ar": 1975,
-   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
-   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.8,
-   "sasonger": 2,
-   "tillagd": "2026-11-09"
-  },
-  {
    "id": "ts32526",
    "typ": "serie",
    "titel": "Shetland",
@@ -150,22 +133,21 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts439006",
+   "id": "ts18844",
    "typ": "serie",
-   "titel": "Reunion",
-   "originaltitel": "Reunion",
-   "ar": 2025,
-   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
-   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "titel": "Pang i bygget",
+   "originaltitel": "Fawlty Towers",
+   "ar": 1975,
+   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
+   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
    "genrer": [
-    "crm",
-    "drm",
-    "trl"
+    "cmy",
+    "eur"
    ],
-   "imdb": 7,
-   "sasonger": 1,
-   "tillagd": "2026-10-13"
+   "imdb": 8.8,
+   "sasonger": 2,
+   "tillagd": "2026-11-09"
   },
   {
    "id": "ts22171",
@@ -183,6 +165,24 @@
    "imdb": 8.8,
    "sasonger": 1,
    "tillagd": "2024-01-11"
+  },
+  {
+   "id": "ts439006",
+   "typ": "serie",
+   "titel": "Reunion",
+   "originaltitel": "Reunion",
+   "ar": 2025,
+   "beskrivning": "Den döve Daniel Brennan söker hämnd efter att ha avtjänat tio år i fängelse, dömd för mord. Samtidigt återfår han kontakten med sin dotter.",
+   "bild": "https://images.justwatch.com/poster/331595263/s166/reunion.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/reunion",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7,
+   "sasonger": 1,
+   "tillagd": "2026-10-13"
   },
   {
    "id": "ts450529",
@@ -363,6 +363,25 @@
    "tillagd": "2024-08-14"
   },
   {
+   "id": "ts36929",
+   "typ": "serie",
+   "titel": "Saknad, aldrig glömd",
+   "originaltitel": "Unforgotten",
+   "ar": 2015,
+   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
+   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.4,
+   "sasonger": 6,
+   "tillagd": "2026-05-06"
+  },
+  {
    "id": "ts11564",
    "typ": "serie",
    "titel": "Mord i Paradiset",
@@ -396,25 +415,6 @@
    "imdb": 7.8,
    "sasonger": 13,
    "tillagd": "2026-07-15"
-  },
-  {
-   "id": "ts36929",
-   "typ": "serie",
-   "titel": "Saknad, aldrig glömd",
-   "originaltitel": "Unforgotten",
-   "ar": 2015,
-   "beskrivning": "Kommissarie Cassie Stuart är en av de mest begåvade mordutredarna vid The Met i London, och när ett skelett hittas efter att ha varit begravt i 39 år under golvet i en källare, kallas hon in för att lösa fallet. Tillsammans med kollegan Sunny Khan börjar Cassie gräva i offrets förflutna och upptäcker lögner som bevarats i nästan 40 års tid.",
-   "bild": "https://images.justwatch.com/poster/355103052/s166/unforgotten.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/unforgotten",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.4,
-   "sasonger": 6,
-   "tillagd": "2026-05-06"
   },
   {
    "id": "ts345331",
@@ -490,37 +490,22 @@
    "tillagd": "2022-05-24"
   },
   {
-   "id": "ts21839",
+   "id": "ts321801",
    "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
-  },
-  {
-   "id": "ts351780",
-   "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
+   "titel": "Sherwood",
+   "originaltitel": "Sherwood",
    "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
+   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
    "genrer": [
-    "drm"
+    "crm",
+    "drm",
+    "trl"
    ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
+   "imdb": 7.4,
+   "sasonger": 3,
+   "tillagd": "2025-04-15"
   },
   {
    "id": "ts357650",
@@ -540,6 +525,55 @@
    "tillagd": "2026-05-20"
   },
   {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
+  },
+  {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 6.5,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
+  },
+  {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
+  },
+  {
    "id": "ts311095",
    "typ": "serie",
    "titel": "Sister Boniface Mysteries",
@@ -556,6 +590,25 @@
    ],
    "imdb": 7.2,
    "sasonger": 4,
+   "tillagd": "2026-11-05"
+  },
+  {
+   "id": "ts20228",
+   "typ": "serie",
+   "titel": "Den skyldige",
+   "originaltitel": "The Guilty",
+   "ar": 2013,
+   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
+   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.7,
+   "sasonger": 1,
    "tillagd": "2026-11-05"
   },
   {
@@ -629,22 +682,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 6.5,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
-  },
-  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -715,43 +752,6 @@
    "imdb": 6.2,
    "sasonger": 1,
    "tillagd": "2026-05-07"
-  },
-  {
-   "id": "ts20228",
-   "typ": "serie",
-   "titel": "Den skyldige",
-   "originaltitel": "The Guilty",
-   "ar": 2013,
-   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
-   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
-   "genrer": [
-    "cmy",
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.7,
-   "sasonger": 1,
-   "tillagd": "2026-11-05"
-  },
-  {
-   "id": "ts321801",
-   "typ": "serie",
-   "titel": "Sherwood",
-   "originaltitel": "Sherwood",
-   "ar": 2022,
-   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
-   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.4,
-   "sasonger": 3,
-   "tillagd": "2025-04-15"
   },
   {
    "id": "ts362915",

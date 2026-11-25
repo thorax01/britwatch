@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-24T14:57Z",
+ "uppdaterad": "2026-11-25T14:33Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -76,24 +76,21 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts526671",
+   "id": "ts18844",
    "typ": "serie",
-   "titel": "Agatha Christie's Tommy & Tuppence",
-   "originaltitel": "Tommy & Tuppence",
-   "ar": 2026,
-   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
-   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
+   "titel": "Pang i bygget",
+   "originaltitel": "Fawlty Towers",
+   "ar": 1975,
+   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
+   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
    "genrer": [
     "cmy",
-    "crm",
-    "drm",
-    "trl",
-    "rma"
+    "eur"
    ],
-   "imdb": 6.4,
-   "sasonger": 1,
-   "tillagd": "2026-09-29"
+   "imdb": 8.8,
+   "sasonger": 2,
+   "tillagd": "2026-11-09"
   },
   {
    "id": "ts32526",
@@ -112,6 +109,23 @@
    "imdb": 8.3,
    "sasonger": 11,
    "tillagd": "2026-06-17"
+  },
+  {
+   "id": "ts22171",
+   "typ": "serie",
+   "titel": "Stolthet och fördom",
+   "originaltitel": "Pride and Prejudice",
+   "ar": 1995,
+   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
+   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
+   "genrer": [
+    "drm",
+    "rma"
+   ],
+   "imdb": 8.8,
+   "sasonger": 1,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts21447",
@@ -133,40 +147,6 @@
    "tillagd": "2024-01-17"
   },
   {
-   "id": "ts18844",
-   "typ": "serie",
-   "titel": "Pang i bygget",
-   "originaltitel": "Fawlty Towers",
-   "ar": 1975,
-   "beskrivning": "Basil är en hårt arbetande hotellägare vars liv är förpestat av döda gäster, hotellinspektörer, sin gnälliga fru Sybil och inte minst den frustrerande servitören Manuel från Barcelona.",
-   "bild": "https://images.justwatch.com/poster/292539770/s166/fawlty-towers.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/fawlty-towers",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.8,
-   "sasonger": 2,
-   "tillagd": "2026-11-09"
-  },
-  {
-   "id": "ts22171",
-   "typ": "serie",
-   "titel": "Stolthet och fördom",
-   "originaltitel": "Pride and Prejudice",
-   "ar": 1995,
-   "beskrivning": "TV-serie efter Jane Austens berömda roman. När den välsituerade Mr Darcy flyttar in i grannhuset blir uppståndelsen stor hos familjen Bennett. Mrs Bennett är övertygad om att någon av hennes fem döttrar kommer att vinna den unge aristokratens hjärta.",
-   "bild": "https://images.justwatch.com/poster/293872136/s166/stolthet-och-fordom.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/stolthet-och-fordom",
-   "genrer": [
-    "drm",
-    "rma"
-   ],
-   "imdb": 8.8,
-   "sasonger": 1,
-   "tillagd": "2024-01-11"
-  },
-  {
    "id": "ts439006",
    "typ": "serie",
    "titel": "Reunion",
@@ -185,6 +165,23 @@
    "tillagd": "2026-10-13"
   },
   {
+   "id": "ts10018",
+   "typ": "serie",
+   "titel": "Svarte Orm",
+   "originaltitel": "Blackadder",
+   "ar": 1983,
+   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
+   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 8,
+   "sasonger": 4,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts450529",
    "typ": "serie",
    "titel": "Art Detectives",
@@ -201,23 +198,6 @@
    "imdb": 6.8,
    "sasonger": 2,
    "tillagd": "2026-10-06"
-  },
-  {
-   "id": "ts10018",
-   "typ": "serie",
-   "titel": "Svarte Orm",
-   "originaltitel": "Blackadder",
-   "ar": 1983,
-   "beskrivning": "Rowan Atkinson spelar den sluga ränksmidaren Edmund Blackadder, en av TV-historiens största antihjältar, i den tidlösa komediklassikern Svarte Orm som utspelar sig under olika perioder av den brittiska historien. Tony Robinson spelar hans tålmodige passopp som alltid söker efter en listig plan som ska hjälpa dem ur svåra situationer, medan övriga roller kompletteras av 1980-talets största komiker.",
-   "bild": "https://images.justwatch.com/poster/295500981/s166/svarte-orm.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/svarte-orm",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8,
-   "sasonger": 4,
-   "tillagd": "2024-01-11"
   },
   {
    "id": "ts8175",
@@ -272,6 +252,24 @@
    "tillagd": "2026-08-25"
   },
   {
+   "id": "ts21621",
+   "typ": "serie",
+   "titel": "The Office",
+   "originaltitel": "The Office",
+   "ar": 2001,
+   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
+   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "genrer": [
+    "cmy",
+    "drm",
+    "eur"
+   ],
+   "imdb": 8.5,
+   "sasonger": 3,
+   "tillagd": "2024-01-11"
+  },
+  {
    "id": "ts305546",
    "typ": "serie",
    "titel": "Signora Volpe",
@@ -290,22 +288,43 @@
    "tillagd": "2026-10-27"
   },
   {
-   "id": "ts21621",
+   "id": "ts526671",
    "typ": "serie",
-   "titel": "The Office",
-   "originaltitel": "The Office",
-   "ar": 2001,
-   "beskrivning": "David är en pompös chef som tror han är den roligaste, mest populära mannen i världen. Pedanten Gareth håller med honom. De har båda fel. Tim är populär och rolig men det är om honom det skämtas om. Han är fast i kontorets lilla värld - en värld han hatar, förutom receptionisten Dawn. Ska Tim fly? Ska Dawn välja rätt man? Och kommer David ångra att han släppte in ett filmbolag på kontoret? ",
-   "bild": "https://images.justwatch.com/poster/333102009/s166/the-office-2001.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-office-2001",
+   "titel": "Agatha Christie's Tommy & Tuppence",
+   "originaltitel": "Tommy & Tuppence",
+   "ar": 2026,
+   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
+   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
    "genrer": [
     "cmy",
+    "crm",
     "drm",
+    "trl",
+    "rma"
+   ],
+   "imdb": 6.4,
+   "sasonger": 1,
+   "tillagd": "2026-09-29"
+  },
+  {
+   "id": "ts22228",
+   "typ": "serie",
+   "titel": "Morden i Midsomer",
+   "originaltitel": "Midsomer Murders",
+   "ar": 1997,
+   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
+   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
     "eur"
    ],
-   "imdb": 8.5,
-   "sasonger": 3,
-   "tillagd": "2024-01-11"
+   "imdb": 7.9,
+   "sasonger": 26,
+   "tillagd": "2024-08-14"
   },
   {
    "id": "ts258950",
@@ -344,23 +363,22 @@
    "tillagd": "2026-08-12"
   },
   {
-   "id": "ts22228",
+   "id": "ts11564",
    "typ": "serie",
-   "titel": "Morden i Midsomer",
-   "originaltitel": "Midsomer Murders",
-   "ar": 1997,
-   "beskrivning": "Ingenting är som det verkar bakom de välklippta häckarna i de pittoreska byarna i det idylliska engelska grevskapet Midsomer. Under det sömniga bylivets lugna yta lurar mörka hemligheter, skandaler och ren ondska. John Nettles spelar huvudrollen som den humoristiske tankfulle och metodiska kommissarie Barnaby. ",
-   "bild": "https://images.justwatch.com/poster/292064000/s166/midsomer-murders.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/midsomer-murders",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
     "crm",
     "drm",
-    "trl",
-    "eur"
+    "trl"
    ],
-   "imdb": 7.9,
-   "sasonger": 26,
-   "tillagd": "2024-08-14"
+   "imdb": 7.8,
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts36929",
@@ -382,24 +400,6 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
-  },
-  {
    "id": "ts4618",
    "typ": "serie",
    "titel": "Fader Brown",
@@ -415,6 +415,24 @@
    "imdb": 7.8,
    "sasonger": 13,
    "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts440132",
+   "typ": "serie",
+   "titel": "Death Valley",
+   "originaltitel": "Death Valley",
+   "ar": 2025,
+   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
+   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
+   "genrer": [
+    "cmy",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 2,
+   "tillagd": "2026-07-31"
   },
   {
    "id": "ts345331",
@@ -436,24 +454,6 @@
    "tillagd": "2024-11-01"
   },
   {
-   "id": "ts440132",
-   "typ": "serie",
-   "titel": "Death Valley",
-   "originaltitel": "Death Valley",
-   "ar": 2025,
-   "beskrivning": "Den pensionerade skådespelaren John Chapel var en gång en oerhört populär tv-detektiv, men lever nu ett tillbakadraget liv i Wales. När hans granne blir mördad vill den ambitiösa kriminalinspektören Janie Mallowan ha hans hjälp. Tillsammans kan det omaka paret kanske lösa fallet – bara nu hennes chef inte får reda på något.",
-   "bild": "https://images.justwatch.com/poster/345652586/s166/death-valley-2025.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-valley-2025",
-   "genrer": [
-    "cmy",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 2,
-   "tillagd": "2026-07-31"
-  },
-  {
    "id": "ts39247",
    "typ": "serie",
    "titel": "The Murder Room",
@@ -472,6 +472,24 @@
    "tillagd": "2026-09-25"
   },
   {
+   "id": "ts18877",
+   "typ": "serie",
+   "titel": "'Allå, 'allå, 'emliga armén",
+   "originaltitel": "'Allo 'Allo!",
+   "ar": 1984,
+   "beskrivning": "Serien handlar om livet i den lilla tyskockuperade franska staden Nouvion under andra världskriget. René Artois och hans hustru Edith driver ett kafé tillsammans med de båda servitriserna Yvette Carte-Blanche och Maria Recamier, vilka René ständigt är otrogen med. Renés kafé fungerar dessutom som en samlingsplats för den franska motståndsrörelsen.",
+   "bild": "https://images.justwatch.com/poster/244688067/s166/alla-alla-emliga-armen.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/alla-alla-emliga-armen",
+   "genrer": [
+    "cmy",
+    "hst",
+    "war"
+   ],
+   "imdb": 8.4,
+   "sasonger": 9,
+   "tillagd": "2026-11-25"
+  },
+  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -488,24 +506,6 @@
    "imdb": 8.6,
    "sasonger": 13,
    "tillagd": "2022-05-24"
-  },
-  {
-   "id": "ts321801",
-   "typ": "serie",
-   "titel": "Sherwood",
-   "originaltitel": "Sherwood",
-   "ar": 2022,
-   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
-   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.4,
-   "sasonger": 3,
-   "tillagd": "2025-04-15"
   },
   {
    "id": "ts357650",
@@ -541,37 +541,22 @@
    "tillagd": "2025-09-10"
   },
   {
-   "id": "ts492740",
+   "id": "ts321801",
    "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "titel": "Sherwood",
+   "originaltitel": "Sherwood",
+   "ar": 2022,
+   "beskrivning": "När två människor dödas i ett industrisamhälle nära Sherwoodskogen öppnas gamla sår. Det är upp till lokala polischefen Ian St Claire och Londonpolisen Kevin Salisbury att lösa morden och skapa lugn i samhället. Serien bygger på verkliga händelser.",
+   "bild": "https://images.justwatch.com/poster/288158216/s166/sherwood-2022-0.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/sherwood-2022-0",
    "genrer": [
-    "drm"
+    "crm",
+    "drm",
+    "trl"
    ],
-   "imdb": 6.5,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
-  },
-  {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
+   "imdb": 7.4,
+   "sasonger": 3,
+   "tillagd": "2025-04-15"
   },
   {
    "id": "ts311095",
@@ -593,23 +578,21 @@
    "tillagd": "2026-11-05"
   },
   {
-   "id": "ts20228",
+   "id": "ts21839",
    "typ": "serie",
-   "titel": "Den skyldige",
-   "originaltitel": "The Guilty",
-   "ar": 2013,
-   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
-   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
    "genrer": [
     "cmy",
-    "crm",
-    "drm",
-    "trl"
+    "eur"
    ],
-   "imdb": 6.7,
-   "sasonger": 1,
-   "tillagd": "2026-11-05"
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
   },
   {
    "id": "ts21686",
@@ -700,6 +683,22 @@
    "tillagd": "2026-02-16"
   },
   {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 6.5,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
+  },
+  {
    "id": "ts43416",
    "typ": "serie",
    "titel": "Death in Holy Orders",
@@ -752,6 +751,25 @@
    "imdb": 6.2,
    "sasonger": 1,
    "tillagd": "2026-05-07"
+  },
+  {
+   "id": "ts20228",
+   "typ": "serie",
+   "titel": "Den skyldige",
+   "originaltitel": "The Guilty",
+   "ar": 2013,
+   "beskrivning": "Lives are torn apart and relationships fractured forever when a young child goes missing. Five years later, DCI Maggie Brand leads a new investigation and puts at risk her own happy family life.",
+   "bild": "https://images.justwatch.com/poster/54573646/s166/den-skyldige.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/den-skyldige",
+   "genrer": [
+    "cmy",
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.7,
+   "sasonger": 1,
+   "tillagd": "2026-11-05"
   },
   {
    "id": "ts362915",

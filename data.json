@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-25T14:33Z",
+ "uppdaterad": "2026-11-26T13:59Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -235,23 +235,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts414531",
-   "typ": "serie",
-   "titel": "After the Flood",
-   "originaltitel": "After the Flood",
-   "ar": 2024,
-   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
-   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
-   "genrer": [
-    "crm",
-    "trl"
-   ],
-   "imdb": 6.6,
-   "sasonger": 2,
-   "tillagd": "2026-08-25"
-  },
-  {
    "id": "ts21621",
    "typ": "serie",
    "titel": "The Office",
@@ -288,24 +271,21 @@
    "tillagd": "2026-10-27"
   },
   {
-   "id": "ts526671",
+   "id": "ts414531",
    "typ": "serie",
-   "titel": "Agatha Christie's Tommy & Tuppence",
-   "originaltitel": "Tommy & Tuppence",
-   "ar": 2026,
-   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
-   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
+   "titel": "After the Flood",
+   "originaltitel": "After the Flood",
+   "ar": 2024,
+   "beskrivning": "Brittisk dramathriller om kriminalaren Jo Marshall (Sophie Rundle) som ställs inför tuffa mordgåtor i den översvämningsdrabbade staden Waterside.",
+   "bild": "https://images.justwatch.com/poster/321027152/s166/after-the-flood.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/after-the-flood",
    "genrer": [
-    "cmy",
     "crm",
-    "drm",
-    "trl",
-    "rma"
+    "trl"
    ],
-   "imdb": 6.4,
-   "sasonger": 1,
-   "tillagd": "2026-09-29"
+   "imdb": 6.6,
+   "sasonger": 2,
+   "tillagd": "2026-08-25"
   },
   {
    "id": "ts22228",
@@ -327,40 +307,24 @@
    "tillagd": "2024-08-14"
   },
   {
-   "id": "ts258950",
+   "id": "ts526671",
    "typ": "serie",
-   "titel": "Dödligt kapitel",
-   "originaltitel": "Magpie Murders",
-   "ar": 2022,
-   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
-   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
+   "titel": "Agatha Christie's Tommy & Tuppence",
+   "originaltitel": "Tommy & Tuppence",
+   "ar": 2026,
+   "beskrivning": "Ex-paret Tommy och Tuppence löser brott i nutida London i denna serie baserad på Agatha Christies berättelser. Samtidigt stormar känslorna mellan dem.",
+   "bild": "https://images.justwatch.com/poster/350616385/s166/tommy-och-tuppence.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/tommy-och-tuppence",
    "genrer": [
+    "cmy",
     "crm",
     "drm",
-    "fml",
-    "trl"
+    "trl",
+    "rma"
    ],
-   "imdb": 7.5,
-   "sasonger": 3,
+   "imdb": 6.4,
+   "sasonger": 1,
    "tillagd": "2026-09-29"
-  },
-  {
-   "id": "ts286379",
-   "typ": "serie",
-   "titel": "Grace",
-   "originaltitel": "Grace",
-   "ar": 2021,
-   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
-   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
-   "genrer": [
-    "crm",
-    "drm"
-   ],
-   "imdb": 7.4,
-   "sasonger": 6,
-   "tillagd": "2026-08-12"
   },
   {
    "id": "ts11564",
@@ -381,6 +345,42 @@
    "tillagd": "2026-04-15"
   },
   {
+   "id": "ts286379",
+   "typ": "serie",
+   "titel": "Grace",
+   "originaltitel": "Grace",
+   "ar": 2021,
+   "beskrivning": "John Simm i huvudrollen som kriminalintendent Roy Grace, i en kriminaldramaserie baserad på Peter James bästsäljande böcker.",
+   "bild": "https://images.justwatch.com/poster/243050141/s166/grace-2021.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/grace-2021",
+   "genrer": [
+    "crm",
+    "drm"
+   ],
+   "imdb": 7.4,
+   "sasonger": 6,
+   "tillagd": "2026-08-12"
+  },
+  {
+   "id": "ts258950",
+   "typ": "serie",
+   "titel": "Dödligt kapitel",
+   "originaltitel": "Magpie Murders",
+   "ar": 2022,
+   "beskrivning": "Förläggaren Susan Ryeland får ett ofärdigt manus av känd deckarförfattare. Men när hon försöker få fatt i det sista kapitlet hamnar hon plötsligt mitt i ett chockerande mysterium som kommer att förändra hennes liv för alltid.",
+   "bild": "https://images.justwatch.com/poster/354888804/s166/dodligt-kapitel.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/dodligt-kapitel",
+   "genrer": [
+    "crm",
+    "drm",
+    "fml",
+    "trl"
+   ],
+   "imdb": 7.5,
+   "sasonger": 3,
+   "tillagd": "2026-09-29"
+  },
+  {
    "id": "ts36929",
    "typ": "serie",
    "titel": "Saknad, aldrig glömd",
@@ -396,7 +396,7 @@
     "eur"
    ],
    "imdb": 8.4,
-   "sasonger": 6,
+   "sasonger": 7,
    "tillagd": "2026-05-06"
   },
   {
@@ -415,6 +415,41 @@
    "imdb": 7.8,
    "sasonger": 13,
    "tillagd": "2026-07-15"
+  },
+  {
+   "id": "ts21839",
+   "typ": "serie",
+   "titel": "Skenet bedrar",
+   "originaltitel": "Keeping Up Appearances",
+   "ar": 1990,
+   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
+   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
+   "genrer": [
+    "cmy",
+    "eur"
+   ],
+   "imdb": 7.9,
+   "sasonger": 5,
+   "tillagd": "2024-05-15"
+  },
+  {
+   "id": "ts18877",
+   "typ": "serie",
+   "titel": "'Allå, 'allå, 'emliga armén",
+   "originaltitel": "'Allo 'Allo!",
+   "ar": 1984,
+   "beskrivning": "Serien handlar om livet i den lilla tyskockuperade franska staden Nouvion under andra världskriget. René Artois och hans hustru Edith driver ett kafé tillsammans med de båda servitriserna Yvette Carte-Blanche och Maria Recamier, vilka René ständigt är otrogen med. Renés kafé fungerar dessutom som en samlingsplats för den franska motståndsrörelsen.",
+   "bild": "https://images.justwatch.com/poster/244688067/s166/alla-alla-emliga-armen.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/alla-alla-emliga-armen",
+   "genrer": [
+    "cmy",
+    "hst",
+    "war"
+   ],
+   "imdb": 8.4,
+   "sasonger": 9,
+   "tillagd": "2026-11-25"
   },
   {
    "id": "ts440132",
@@ -470,24 +505,6 @@
    "imdb": 7.1,
    "sasonger": 1,
    "tillagd": "2026-09-25"
-  },
-  {
-   "id": "ts18877",
-   "typ": "serie",
-   "titel": "'Allå, 'allå, 'emliga armén",
-   "originaltitel": "'Allo 'Allo!",
-   "ar": 1984,
-   "beskrivning": "Serien handlar om livet i den lilla tyskockuperade franska staden Nouvion under andra världskriget. René Artois och hans hustru Edith driver ett kafé tillsammans med de båda servitriserna Yvette Carte-Blanche och Maria Recamier, vilka René ständigt är otrogen med. Renés kafé fungerar dessutom som en samlingsplats för den franska motståndsrörelsen.",
-   "bild": "https://images.justwatch.com/poster/244688067/s166/alla-alla-emliga-armen.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/alla-alla-emliga-armen",
-   "genrer": [
-    "cmy",
-    "hst",
-    "war"
-   ],
-   "imdb": 8.4,
-   "sasonger": 9,
-   "tillagd": "2026-11-25"
   },
   {
    "id": "ts2287",
@@ -578,23 +595,6 @@
    "tillagd": "2026-11-05"
   },
   {
-   "id": "ts21839",
-   "typ": "serie",
-   "titel": "Skenet bedrar",
-   "originaltitel": "Keeping Up Appearances",
-   "ar": 1990,
-   "beskrivning": "Hyacinth Bucket går hur långt som helst i sin jakt på perfektion och social status. Men vad Hyacinth än gör kan hon räkna med att hennes övriga familj kommer att ställa till det. För att hålla skenet uppe måste hon ständigt hitta på glamorösa förklaringar för att dölja sina släktingars förehavanden, i synnerhet när de kommer på oväntade besök.",
-   "bild": "https://images.justwatch.com/poster/293285676/s166/keeping-up-appearances.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/keeping-up-appearances",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 7.9,
-   "sasonger": 5,
-   "tillagd": "2024-05-15"
-  },
-  {
    "id": "ts21686",
    "typ": "serie",
    "titel": "Ett herrans liv",
@@ -665,6 +665,22 @@
    "tillagd": "2024-01-11"
   },
   {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 6.5,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
+  },
+  {
    "id": "ts472788",
    "typ": "serie",
    "titel": "Frauds",
@@ -681,22 +697,6 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
-  },
-  {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 6.5,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
   },
   {
    "id": "ts43416",

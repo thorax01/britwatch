@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-26T13:59Z",
+ "uppdaterad": "2026-11-27T13:58Z",
  "titlar": [
   {
    "id": "ts418689",
@@ -200,6 +200,24 @@
    "tillagd": "2026-10-06"
   },
   {
+   "id": "ts305546",
+   "typ": "serie",
+   "titel": "Signora Volpe",
+   "originaltitel": "Signora Volpe",
+   "ar": 2022,
+   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
+   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.2,
+   "sasonger": 3,
+   "tillagd": "2026-10-27"
+  },
+  {
    "id": "ts8175",
    "typ": "serie",
    "titel": "Barnmorskan i East End",
@@ -253,24 +271,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts305546",
-   "typ": "serie",
-   "titel": "Signora Volpe",
-   "originaltitel": "Signora Volpe",
-   "ar": 2022,
-   "beskrivning": "Den före detta MI6-agenten Sylvia Fox är på besök hos sin syster i Italien. Sylvia är trött på spionlivet och längtar efter lugn och ro, men hon befinner sig snart mitt uppe i nya mysterier. Hon måste använda alla sina färdigheter som agent för att avslöja de mörka hemligheter som den idylliska omgivningen bär på.",
-   "bild": "https://images.justwatch.com/poster/280860354/s166/signora-volpe.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/signora-volpe",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.2,
-   "sasonger": 3,
-   "tillagd": "2026-10-27"
-  },
-  {
    "id": "ts414531",
    "typ": "serie",
    "titel": "After the Flood",
@@ -286,6 +286,43 @@
    "imdb": 6.6,
    "sasonger": 2,
    "tillagd": "2026-08-25"
+  },
+  {
+   "id": "ts20528",
+   "typ": "serie",
+   "titel": "Ett fall för Vera",
+   "originaltitel": "Vera",
+   "ar": 2011,
+   "beskrivning": "Den charmiga men mycket sarkastiska kriminalkommissarien Vera Stanhope löser mord tillsammans med sin unga assistent i Northumberland County.",
+   "bild": "https://images.justwatch.com/poster/354873653/s166/vera.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/vera",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl",
+    "eur"
+   ],
+   "imdb": 8.2,
+   "sasonger": 14,
+   "tillagd": "2026-03-02"
+  },
+  {
+   "id": "ts18877",
+   "typ": "serie",
+   "titel": "'Allå, 'allå, 'emliga armén",
+   "originaltitel": "'Allo 'Allo!",
+   "ar": 1984,
+   "beskrivning": "Serien handlar om livet i den lilla tyskockuperade franska staden Nouvion under andra världskriget. René Artois och hans hustru Edith driver ett kafé tillsammans med de båda servitriserna Yvette Carte-Blanche och Maria Recamier, vilka René ständigt är otrogen med. Renés kafé fungerar dessutom som en samlingsplats för den franska motståndsrörelsen.",
+   "bild": "https://images.justwatch.com/poster/244688067/s166/alla-alla-emliga-armen.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/alla-alla-emliga-armen",
+   "genrer": [
+    "cmy",
+    "hst",
+    "war"
+   ],
+   "imdb": 8.4,
+   "sasonger": 9,
+   "tillagd": "2026-11-25"
   },
   {
    "id": "ts22228",
@@ -327,24 +364,6 @@
    "tillagd": "2026-09-29"
   },
   {
-   "id": "ts11564",
-   "typ": "serie",
-   "titel": "Mord i Paradiset",
-   "originaltitel": "Death in Paradise",
-   "ar": 2011,
-   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
-   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.8,
-   "sasonger": 15,
-   "tillagd": "2026-04-15"
-  },
-  {
    "id": "ts286379",
    "typ": "serie",
    "titel": "Grace",
@@ -373,8 +392,7 @@
    "genrer": [
     "crm",
     "drm",
-    "fml",
-    "trl"
+    "fml"
    ],
    "imdb": 7.5,
    "sasonger": 3,
@@ -400,21 +418,22 @@
    "tillagd": "2026-05-06"
   },
   {
-   "id": "ts4618",
+   "id": "ts11564",
    "typ": "serie",
-   "titel": "Fader Brown",
-   "originaltitel": "Father Brown",
-   "ar": 2013,
-   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
-   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
+   "titel": "Mord i Paradiset",
+   "originaltitel": "Death in Paradise",
+   "ar": 2011,
+   "beskrivning": "Den brittiske detektiven Richard Poole (spelad av Ben Miller) skickas till Saint Marie i Karibien för att lösa ett mord. Efter att han lyckats reda ut mordet får han stanna kvar där för att lösa framtida brott.",
+   "bild": "https://images.justwatch.com/poster/331479847/s166/death-in-paradise.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/death-in-paradise",
    "genrer": [
     "crm",
-    "drm"
+    "drm",
+    "trl"
    ],
    "imdb": 7.8,
-   "sasonger": 13,
-   "tillagd": "2026-07-15"
+   "sasonger": 15,
+   "tillagd": "2026-04-15"
   },
   {
    "id": "ts21839",
@@ -434,22 +453,21 @@
    "tillagd": "2024-05-15"
   },
   {
-   "id": "ts18877",
+   "id": "ts4618",
    "typ": "serie",
-   "titel": "'Allå, 'allå, 'emliga armén",
-   "originaltitel": "'Allo 'Allo!",
-   "ar": 1984,
-   "beskrivning": "Serien handlar om livet i den lilla tyskockuperade franska staden Nouvion under andra världskriget. René Artois och hans hustru Edith driver ett kafé tillsammans med de båda servitriserna Yvette Carte-Blanche och Maria Recamier, vilka René ständigt är otrogen med. Renés kafé fungerar dessutom som en samlingsplats för den franska motståndsrörelsen.",
-   "bild": "https://images.justwatch.com/poster/244688067/s166/alla-alla-emliga-armen.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/alla-alla-emliga-armen",
+   "titel": "Fader Brown",
+   "originaltitel": "Father Brown",
+   "ar": 2013,
+   "beskrivning": "Katolska prästen Brown har en särskild fallenhet för att lösa kluriga brott i ett brittiskt litet samhälle. Fader Brown är en brittisk deckarserie baserad på historier av GK Chesterton.",
+   "bild": "https://images.justwatch.com/poster/297247551/s166/father-brown.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/father-brown",
    "genrer": [
-    "cmy",
-    "hst",
-    "war"
+    "crm",
+    "drm"
    ],
-   "imdb": 8.4,
-   "sasonger": 9,
-   "tillagd": "2026-11-25"
+   "imdb": 7.8,
+   "sasonger": 13,
+   "tillagd": "2026-07-15"
   },
   {
    "id": "ts440132",
@@ -489,24 +507,6 @@
    "tillagd": "2024-11-01"
   },
   {
-   "id": "ts39247",
-   "typ": "serie",
-   "titel": "The Murder Room",
-   "originaltitel": "The Murder Room",
-   "ar": 2005,
-   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
-   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 7.1,
-   "sasonger": 1,
-   "tillagd": "2026-09-25"
-  },
-  {
    "id": "ts2287",
    "typ": "serie",
    "titel": "Poirot",
@@ -523,6 +523,22 @@
    "imdb": 8.6,
    "sasonger": 13,
    "tillagd": "2022-05-24"
+  },
+  {
+   "id": "ts351780",
+   "typ": "serie",
+   "titel": "The Light in the Hall",
+   "originaltitel": "Y Golau",
+   "ar": 2022,
+   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
+   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": null,
+   "sasonger": 2,
+   "tillagd": "2025-09-10"
   },
   {
    "id": "ts357650",
@@ -542,20 +558,21 @@
    "tillagd": "2026-05-20"
   },
   {
-   "id": "ts351780",
+   "id": "ts5804",
    "typ": "serie",
-   "titel": "The Light in the Hall",
-   "originaltitel": "Y Golau",
-   "ar": 2022,
-   "beskrivning": "Sharon Roberts sörjer fortfarande sin dotter Ela, som försvann 18 år tidigare. Strax efter Elas försvinnande erkänner den tystlåtne trädgårdsmästaren Joe att han är skyldig till hennes mord, men vägrar avslöja vad han har gjort med kroppen.",
-   "bild": "https://images.justwatch.com/poster/307480365/s166/the-light-in-the-hall.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-light-in-the-hall",
+   "titel": "Helt hysteriskt",
+   "originaltitel": "Absolutely Fabulous",
+   "ar": 1992,
+   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
+   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
    "genrer": [
-    "drm"
+    "cmy",
+    "eur"
    ],
-   "imdb": null,
-   "sasonger": 2,
-   "tillagd": "2025-09-10"
+   "imdb": 8.2,
+   "sasonger": 6,
+   "tillagd": "2024-01-11"
   },
   {
    "id": "ts321801",
@@ -612,25 +629,6 @@
    "tillagd": "2024-01-11"
   },
   {
-   "id": "ts20528",
-   "typ": "serie",
-   "titel": "Ett fall för Vera",
-   "originaltitel": "Vera",
-   "ar": 2011,
-   "beskrivning": "Den charmiga men mycket sarkastiska kriminalkommissarien Vera Stanhope löser mord tillsammans med sin unga assistent i Northumberland County.",
-   "bild": "https://images.justwatch.com/poster/354873653/s166/vera.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/vera",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 14,
-   "tillagd": "2026-03-02"
-  },
-  {
    "id": "ts261229",
    "typ": "serie",
    "titel": "The Cleaner",
@@ -646,39 +644,6 @@
    "imdb": 7.1,
    "sasonger": 3,
    "tillagd": "2025-02-19"
-  },
-  {
-   "id": "ts5804",
-   "typ": "serie",
-   "titel": "Helt hysteriskt",
-   "originaltitel": "Absolutely Fabulous",
-   "ar": 1992,
-   "beskrivning": "Möt Edina och Patsy, två medelålders kvinnor som desperat söker glamour och berömmelse i Londons hippaste kretsar. De har dock ingen större koll på vad som är rätt eller fel och då de slaviskt följer alla modetrender, bantar, kedjeröker och missbrukar champagnedrinkar i sin jakt på framgång blir deras dagar helt hysteriska.",
-   "bild": "https://images.justwatch.com/poster/293001482/s166/absolutely-fabulous.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/absolutely-fabulous",
-   "genrer": [
-    "cmy",
-    "eur"
-   ],
-   "imdb": 8.2,
-   "sasonger": 6,
-   "tillagd": "2024-01-11"
-  },
-  {
-   "id": "ts492740",
-   "typ": "serie",
-   "titel": "The Lady",
-   "originaltitel": "The Lady",
-   "ar": 2026,
-   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
-   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
-   "genrer": [
-    "drm"
-   ],
-   "imdb": 6.5,
-   "sasonger": 1,
-   "tillagd": "2026-02-23"
   },
   {
    "id": "ts472788",
@@ -697,6 +662,22 @@
    "imdb": 5.7,
    "sasonger": 1,
    "tillagd": "2026-02-16"
+  },
+  {
+   "id": "ts492740",
+   "typ": "serie",
+   "titel": "The Lady",
+   "originaltitel": "The Lady",
+   "ar": 2026,
+   "beskrivning": "Jane Andrews' life changes overnight when she lands a dream job in Buckingham Palace and bonds with the Duchess of York.",
+   "bild": "https://images.justwatch.com/poster/348012448/s166/the-lady.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-lady",
+   "genrer": [
+    "drm"
+   ],
+   "imdb": 6.5,
+   "sasonger": 1,
+   "tillagd": "2026-02-23"
   },
   {
    "id": "ts43416",
@@ -877,6 +858,24 @@
    "tillagd": "2024-12-18"
   },
   {
+   "id": "ts39247",
+   "typ": "serie",
+   "titel": "The Murder Room",
+   "originaltitel": "The Murder Room",
+   "ar": 2005,
+   "beskrivning": "Kommissarie Dalgliesh utreder ett mordfall där en person hittats mördad på ett sätt som liknar ett historiskt brottsfall på ett museum.",
+   "bild": "https://images.justwatch.com/poster/191876692/s166/the-murder-room.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/the-murder-room",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 7.1,
+   "sasonger": 1,
+   "tillagd": "2026-09-25"
+  },
+  {
    "id": "ts289810",
    "typ": "serie",
    "titel": "The Thief, His Wife and the Canoe",
@@ -910,24 +909,6 @@
    "tillagd": "2025-11-29"
   },
   {
-   "id": "ts291563",
-   "typ": "serie",
-   "titel": "Hope Street",
-   "originaltitel": "Hope Street",
-   "ar": 2021,
-   "beskrivning": "Kriminaldrama om lokalpolisen och de hjälpsamma invånarna i kuststaden Port Devine på Nordirland.",
-   "bild": "https://images.justwatch.com/poster/257663275/s166/hope-street.webp",
-   "lank": "https://www.justwatch.com/se/tv-serie/hope-street",
-   "genrer": [
-    "crm",
-    "drm",
-    "trl"
-   ],
-   "imdb": 6.7,
-   "sasonger": 5,
-   "tillagd": "2026-01-27"
-  },
-  {
    "id": "tm172999",
    "typ": "film",
    "titel": "My Family and Other Animals",
@@ -944,6 +925,24 @@
    "imdb": 7.3,
    "sasonger": null,
    "tillagd": "2025-12-19"
+  },
+  {
+   "id": "ts291563",
+   "typ": "serie",
+   "titel": "Hope Street",
+   "originaltitel": "Hope Street",
+   "ar": 2021,
+   "beskrivning": "Kriminaldrama om lokalpolisen och de hjälpsamma invånarna i kuststaden Port Devine på Nordirland.",
+   "bild": "https://images.justwatch.com/poster/257663275/s166/hope-street.webp",
+   "lank": "https://www.justwatch.com/se/tv-serie/hope-street",
+   "genrer": [
+    "crm",
+    "drm",
+    "trl"
+   ],
+   "imdb": 6.7,
+   "sasonger": 5,
+   "tillagd": "2026-01-27"
   },
   {
    "id": "ts379480",
